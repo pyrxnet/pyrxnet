@@ -42,7 +42,6 @@
 
 ## 💬 Contact:
 
-<!-- Replace YOUR_DISCORD_ID (the numeric user ID) and YOUR_DISCORD_NAME. Lanyard needs you to join discord.gg/lanyard once. -->
 <p>
   <img src="https://img.shields.io/badge/g19x-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
 </p>
@@ -51,6 +50,6 @@
   <img src="https://lanyard.cnrad.dev/api/1555522126788952066?theme=dark&bg=000000" alt="Discord status">
 </p>
 
-<a href="https://discord.gg/pyrx">
+<a href="https://discord.gg/hz2yqDay3h">
   <img src="https://img.shields.io/discord/1454574682916524322?style=for-the-badge&logo=discord&logoColor=black&label=JOIN%20MY%20SERVER&color=FFFFFF&labelColor=FFFFFF" alt="Discord server">
 </a>
