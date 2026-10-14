@@ -44,16 +44,9 @@
 
 <!-- Replace YOUR_DISCORD_ID (the numeric user ID) and YOUR_DISCORD_NAME. Lanyard needs you to join discord.gg/lanyard once. -->
 <p>
-  <img src="https://img.shields.io/badge/YOUR__DISCORD__NAME-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
+  <img src="https://img.shields.io/badge/g19x-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
 </p>
 
 <p>
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=000000" alt="Discord status">
+  <img src="https://lanyard.cnrad.dev/api/1555522126788952066?theme=dark&bg=000000" alt="Discord status">
 </p>
-
-## ☕ Support:
-
-<!-- Replace YOUR_BMC_NAME with your Buy Me a Coffee username, or delete this section. -->
-<a href="https://www.buymeacoffee.com/YOUR_BMC_NAME">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFFFFF?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee">
-</a>
