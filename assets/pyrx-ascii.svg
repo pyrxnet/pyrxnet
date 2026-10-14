@@ -1,0 +1,798 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 338" width="576" height="338" role="img" aria-label="PYRX ASCII animation">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<g font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8b949e" xml:space="preserve" style="white-space:pre">
+<g opacity="1">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">5555x05550xx5xx05x5xx050500000:x555:xx55x00x0x0x555x005:x:::::0::::xx:::.....                   </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">505550055x555550000000000x000x00500x050x05055x05050:0::00x:::0:::::.:: .                 .      </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">xx05x5005000x5xx05xx05500xx0xx0x0x0xx5xx0555x5050x5:x::::::: ::::::......             . .       </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">55x5550x555550x5x5x0x05xx55x0050x005xx5x50055x50:::x:x:x:.:x.:.:...:  .      .                  </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">55550xxx500055x5505x000055x50050x5x000500x0550x0:xx::0: :: .   .:...              .             </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">5x550055055x5x50xxxxxx555x005x05005055x55xx::x::x::::::::.:..:                              .  .</text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">x55505x055xx5xx5x55xxx5555x555x00x555xx5500:0xx::0:::.:..:.. . .                         .  . . </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">x55x0x55500505055x550555005050x5x5x000::x:0::::::.::: ..:   ...     .                 . .   .. .</text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">5x5xx5x550x0550500x50050005055x5x0000x:00:0.::::. ..   . . .  .                    ..  .. .     </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">555505x0x00x0005x5055x50550000505x0xx0:::::.::::.. . :  . .  ..                  .... .  . ..   </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">x555xx5555555500x0xxx55x5x50505xxxx:::::. ::.  ..... .  . ......           .   .. . .... .      </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">00x55505505055550555x5550050:5xx:::0:x::...: :.   . ....  .  .        .   ..   .   ..... .      </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">5055x50005x0xxx5500555050500500x:::.::  .. .  .  . ....     ..   ...  .   .  .:..  :. .         </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">5055005x5x05500x5055x50x05x0:xx::0 :. :.. . ... .  ::...:.: .. .       ... ::.::.  ...          </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">x5x05x05550xx050x5x5000x5x05x:00.x ::.. ...:: :. ....:... ... ..  .  ..:..:. .. ..: .      . .  </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">x00x05505505x0x0x5055005:::x::::..:::.::....::.:::.::::....: . ... . . :..:. ::.                </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">x5x5xx5050555x000xx5x5x0xxx:::: .... :.:....::..: ..::::.:. ::........  ..:..:                  </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">0x5x50:0x:x0xx5x5x0:x000:::::::..:.:.:::..::::: :.:.::::.:.....:.:..: :: .:..  .                </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">:05000xx00x55xxx5:0xx:0:::::::. :: :. ::.::xx0::::xx:::  .::: .:.....:.:. . .                   </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">00x5500xx50500x00:x0xx:::0.:::.::  :::::::x0:::x:::x .::::  : ::... :.    .                     </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">:x55xx55550505xxxx::0::::: :: :::x:x::::::x:::x::0::x:.:.::.:...:.:.     .                      </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">x505500x500000xxx:::::0:: ::::::x00::50x0x0000000:::..::.:   .:.: :  . .                        </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">xxxxxxx05xx5x5xx:::::x:::::00:::::x:0xx:x0:0:::::::x:::.: ...    .  .                           </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">x5xx05x0550:x0:550::0::::::x:0x:00xx:000:0:x0:::::0.::. :   :.  .       .              .        </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">50x55555050x5x5x00:0::00::0x::xx:x00xxx00x:x:x::...::.:....    .  .                             </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">xxxx05505x55500:x0:xx:0::xx0xxx00500x5x50xx0::.:..: ......  .                                   </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">0550005xx50xx00:x:x0:x:5:0x0:55:xx:0x00x:::::::.: ....                                          </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">xxx00x05x00x:0::x5:x00:x0x50x00050:00xx:0::.:. .. . ..   .. .                                   </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">xxx50055xx0::05x0000::0x0x5xx05xx5000::0.:: ..      .   .  .                                    </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">xx55x050x05:5x50:x5x5x::xx00555x55:x:::: .. . . .. .                             .        .     </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">550x0x500550x500x5505xx55x50050x050xxx5x050xxx::x:::::::::::::00::::::.::.:...  .               </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">5x505050505x0x5xx0xx005555x0x555x05xx:5x005::::::::::xx:::00::::::::::. ..   .                  </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">x5550550555555505xx5xxxx5555x50x0000xx::xx:0:::::::x::x:00:::::::x :.:...                       </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">00x55055x555x50x0x50x55xx0x550x50x0xx:5xx:xx0::::x0:x:::x:::0:::0..:.  .  .                 . . </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">0555555555x5550000555x500x50505050x0xxx00:0:xx0:0:x:x::x0:x:::::::....  .                 .    .</text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">x00x50x0x0xx50500x005505555555xx5x50xxx0x0x:::::::x00:x00::::: ::: ....                     .   </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">0x5505055xxx5xx0xxx5505055x50xxx555000:x::0::00::::0::::::0:x:::..                      ..      </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">0x550505xx00xx500xx50550505x00x:xx5x00::0:00:::::00:::x:::::.:     .                 . ..       </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">x505055550005055500xx050500x555::00x:::x:x::::::0:::::::::.....                    .  .  .      </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">x5055x5x5xxx000xx5x5055x0x555505xxx:::00:::::0x:::::0:x:::..                     ..             </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">x55x550xx05x50x0x055x5005x000x55xxx:x:x::0::::000::. :: .. .    .    .  .        . .            </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">55x05xxx0x5xx5x55x5x0505550505:0::x:0:::x:::::::0::::.:.. . .             .    .   ..  .        </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">x55055xx5x5x0x5x05x5005x50050:00::0:0::x::0::x::::: . . :.   ..       ..  .   . .              .</text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">55550550x0555505x505xx5x0:xx0::0:0:::::::::0:::.:.:::... . ..         .   .. .... . .           </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">055x55500555xxxx5xx5500x00x0:0:x::::x:0::0:0:::.:.::.. .       . .   ..   . ..                  </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">555x0xx055x055x0x500xx5xxxx0:xx:0::0::xxx::::0.::::..    ....      .  ...     .                 </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">5xx0x00x5500xxxx000xxx0:::0:0:::::0::0:0::::::: :::  .. ..   .   ..:. .. ... .                  </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">5xx5505055xx0x55000xx005:50::0x:::::0x::::0::::::: :. ...   .    .  ..... ..                    </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">xx5550x5x0x5550xxxx:0::x:0:00x:0:x::::::::x::::..     .......  .. .:. .....            .      . </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">xx0x55x0050x50x055505:xx::0:0:0::x:00x:::0::.:::::.: . :  ..  :. .::  .. .                      </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">x55x00xx505xxxx0xxx:::::00:0:::x:0:x::x::::: :::::  :.:...:..  .:.:. . .                  .     </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">055x500055x550505:x0:::x:0:::xx::::x::::::.::.:. :.  .. .. .::. .: ..   .   .                   </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">x5x0505x5x5x05:0:0:::::50:00:::x:0::x0:x:x:::. .............  :. . .                            </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">500055000x00005:00xx:::::x00xx:::xxx:x:::: :..::::.:.....: .:.. : ..                 .          </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">5x05xx050x5x55005::00:x:00x055::0:00::0:::::  .....: .:..:..: :..  .                            </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">55xx5505x0x055xx0000xx0:0:0x:x00::::::0.:: ..:.::... .:. ...  ..  .                  .          </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">xxx5x5055x5x:00:::05:x::x55:0:x:::0:::::::::::: ....:.::.  .  .   .                             </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">5x55x55050xx00050:5x::00x0x50:x00:::0:.:.. .......::.......                                     </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">xx50000x0:0xx:x0x00:::000:0:000:::::::::.:...::.  :..: .....                                    </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">xx5x500:005x5x000050:0x0x0xx00::0:: x:::. ::...  ....... . .                                    </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">55x5xx5050x55x00x050550x500005050x50x::0::::: .::::..:.:::::x:x0::x:::: :: ..      .  . ..  .. .</text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">5xx555x5555x0050x0550xx50550055x005000::0:::.:.:. ..:::::x::0x:x:x00::::.:... .              .  </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">55xx50555xx0050505055x50505x00500x0:::0:x.: ::.::x::x::::x:x::0xx00::::....              .  .   </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">50x5555555x50505x555005055500005000:x::::.::::.::0x:x::5::00x05:x:00.::..  . . .   . .  .   .   </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">5555xx0505x0555x5x05000xx055x50::xx00::.:::: x::xxx::0:000000xx::::::    .                      </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">555555x5x555000xxxx0x050xx:5x000::::::::::0:x::x:::5:5xxx:x050::x   :.    . .        .          </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">5x550505x55550555x5x505xx550xx:xx:00::0:0x:0x0xx:x0x::00x0x::::::..:                            </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">x5050555x500x55055x55x0x55x0xx005x:x::x0:x:x:55055x500xx0x0:::.:  .                 .           </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">005x555x5x000555000500xx0055x00x0::::::0x:::00:55x0x0xxx::x::.:.  .                             </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">x55555x00055xx0x0xx5xx50:05x0:5:5xx0xx00xxx05550050xx:::::.::  .               .                </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">0x0005x5x00x55x05555xxxx5x:x0x05:x:xx0x5x50x55000xxx00:: . ...            .  .      .           </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">55555x500x05xxxx55x0555:5000xxxx0x0xx000x::05x050x50:::  ...      .  .   .      .               </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">5xxx5x5x00x0555x0xx0x0050::x5xx:00x0xx5x005x0000x:::.: ..                 ..                    </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">0005x55555x05555x0x0x55x:000500x:x55x000000x5:5:::x.:   ..  .          .  ..                    </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">555550xx5x05x50x5055xx05:0:000050x505:0500x0xx:0.:...              .   .  ..                    </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">05x5505x55x0x505x0x5050000x05500505x050000:000:  .               .     .   .                    </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">505xxxx05050500550x05505:xx:x50x0x0:0x:0:x:.:::.. .                .     . . .                  </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">000x050550x0x005x5xx050x000x00xx0xx5:0:x:::.:...              ... .  .  . .                     </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">05505000x0505xxx5055x0xx000005xx::::::::.:.. .  .  .      .  .   .  .... ..  .    .         .   </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">0x055x000x0x50xx0x5505xx:050x:x0xx:x0.::::: .    .   .   .  ....:.  .  .....    .               </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">x5x5xx055x55550x000x00:x:00xxx:::::x:::.:. . .. .      .   ::. ::.: ... .                       </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">55505x5x0x55x50555xx05x0x0:xxx::0::::.: ..   .  .          .::.:. .:     .                      </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">x005x050x55x55x50000:x:x:0x0::x:..:....:.   .     ... :: .:..::: : :                            </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">505x5000055x0:555:x0:::x0:x:0:x::... ..  .  ...   .:..: : ::.:......  .                         </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">55x5xxx50550x0x0xx0:x0:::0:::x:  :: ....    .....::...:::::::: ...  .                           </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">00005505xx0000::5:000xx00::00::.:... . .... .:: ..:.::. :::: ...        .          .            </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">0005550x55x:005::0x::::::::::..: : .:  . ..:.: ..0:x:::::: :: ..                           .    </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">55500xx0500::00:x000::::::::::: .. :..:.: ::.::x::::x:::::....  .                               </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">50000x:5:55:x050::5:x::::x::: :::::. ::.:::: x:::0::x: :. .                             .       </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">0xxx50x:x:0:5:x0x0x:x:::::0:.::.:::.::0:::::0:::::::::.:..                              ..      </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">55x0x055x5050xx05x55000x05x050000:0:::0:: :: ... .. :::::::00::0x0:xxx::::::.. ..    .. ..  ... </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">0555xx00500005505x55505xxx50:05:0::::::.::. .:.. :.::::0:0x:0xxx::::::: ::.::..  ... . .        </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">005x5x55x55x505x505x5555500x0xxx:0::..::: : . :.::0:0000:5x5x000:05::::: ... ..     .  . .      </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">055550555xx5x55x550550xx000500x0:x:0....:.::::x:xx:0005005550000::0:::.:......  .    .        . </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">0x5x00x0500500x050xxx5x:x0xxx0::::::...:::0x:::x5:xxx50x0:500:0x:x: :...                        </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">505xx550xx0x05505x0555500000:x:::0::::::x0::x0055x00x50505xx0:0:: .: : .                        </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">050x0x0055000x00x5x55:5xxx:0x::0:xx:::::x0xx0x55500505500x0x00:::..  .                          </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">555500500x50555500x050xxxx:x0::::xx:0:::0x50x00xxxx055:0:x:::::....                             </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">50x0505x550050x5xx5x5x00:0x0:0:xx5x::5xx:00x05xx55505x:x:0:. .. .. .                            </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">0555000x5055x00x50550050:xx05::x00x00x5x5x00500500x:00::0.::. ..                      .         </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">5550x005500x0x005x0x055xx50x5:x0055x550x00000555050:0::: ::                          .          </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">x55055x5x0x5x5x0x0500x005:xx055x:0x00x505x5x0050::0::::..    .              .      .            </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">55x5xx5xx55550x0x000550xxx5005x505x005x5x5x000:x::::..   .         .    .        .       .      </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">50555xxxx555x50xx05xx5xx5x0x0x0000xx50055000x::0:: . .                                          </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">550x000555x55x5x55500xx005x5x5500x505050:0:0x::::    .                         .         .      </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">550555555055555x5xx05x050x00x0555x550x5xx:::: ...                   .    .                      </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">550x5x005x5555555x500005005500xxx0x05x:x:x.:.    .                . .                           </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">5x5555000x050050x0x500550550xxx000xx:::0:...                .  ... .     .                      </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">00055xx505x55xxx050000xxx0x0x55x:x00::...:                  .        ...  .                     </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">xxx500555x055x5xx5x55055x5505x500x:.::...             .    . . : . .  .  .                      </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">00x55550555xxx5x50x5x50x:0x0:00:: .::                . .. .:. ::.. . ....       .               </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">50050555xxx5x5x5:x:0:x0:x00::::::.:..           .   ..: ::.:::.::. ::.....    .                 </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">55x55x00x000x50xx:x5x000x::::.::...... .     . .. ..:.:::::::::::..... .                        </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">55x5005x0x00:x5x50x0x0:x::x:.::.   ..        . ..::::.:0 :::0::...:    .                        </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">0055xxx50050500000:5::0::::. .. .      .  .. .. .::.:::::::::: :.. ..              .            </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">x500x0x555x00:00xxxx:::::::::.  .      .  :.:::::0::x::0:00:::: .        .         .         .  </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">000xxx05:xx5x:00:0:x:::.:....... ..  .......:0x:xx0000:::0.::: ..                            .  </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">0x5000:0x:xx:x0x::::0::.:: :... .. .: ::.0::x:0:x5:00:::x.. .                   .               </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">050xxxxx5x:5:00::x0::::::: :..:..  .:.:::::0x:x50:0::::x:. . .                                  </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">500x:05:0:xxxx:0x::::: : :::::::::x:::x0:00x55::5x::x0:: .             .            .           </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">5x5055xxxx50x005xx5x0550xx555x:00::::.::..:....::.::::x:000x::0x:0::x:0:::.: ..:...   .   ..    </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">5500500555xx0x5x505550xx55555x0:x::::: ...... ::x::::::5x0xx0:x:0:0xx:::::. ....:. ..  .        </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">55x5555555050500005x050x5xxx00x::::::.: :.::::::0x5:0x:0:50x5x0xx:::x:.: ..      .        .     </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">x0055xxxx550xx55x0xxx55x5xx0:x:::...:.:::::000:::05xx::0xx0000::0::::::    ..   .    .          </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">555x505x5x5x5x00x0xx0x5:0:50:0:x::::.:::x:x5x005x0x55555x::50:::::: .:. : ..     . .            </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">xxxx5555xx0xxxxx5x050x:x00xx::x:: ::::::x:0x05x5x5x0500:x50:::::..:.    .  ... .                </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">005x0055x5500x05x0x5x5x::500:x:x:00:0::xx05505x0xx0x550050:::.:...: .   .      .              . </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5x0x5xxx555x505555x:x0::0xx0:::::00x55xx0:0x0000x5xxxx:0::::.:..    ...   . .                   </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">5x55555x5x5x5005x0550:xx5xx0:x0::5x:5x50555050x550:000::0::. .. .      .        ..              </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">xx05xx055xx50x0555x0x5500x:50xx:5x5x0x05x50xx000x0x:x:::.: .   . .                .             </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">050xx0xxx0x00x5550xx:0005:5xx0xxx500x0xx50x0x0xx:x0::..:..  .    .   .                          </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">x05055x5555xx55x000:x5xx5xx0:00xxx0505x555x000:::0:. . ..   .                                   </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">x5x5055x5555x500x0x5x050xx005005x05x0055xxx5x::00. .:. ..                                       </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">5505005x0550x5050050050000x05x55555005x5x000x:: :.. . .          .                              </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">55x05xx505x5xx0x5x0500x0505005555xx505:0x0::0: .   ..          .  . . ..  .                     </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">550505x5xx55050x5055505505055500505xx0:0:::..:. .               .         .                     </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">xx0505x5555xx05xx05550x550500xxxxx550xx::: .... .  .   ..       .     .    . .                  </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">0x5xxx5055x55555xx5055500x55050:55x:0::::               ..   .   ....  ..   .                   </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">555x50x500005050505x0x5xxx0x0:5x0:::0:: .     .          . ..  :  . .     . .                  .</text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">55050055055x05005xx0x5550000x0xxx:.: .     .         .  ..:.. .. :.... .    .            .      </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">5x555xxx0xx0x0555050xx00505xx:x: ::. .              .. .. .: ::: .       ..                     </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">x55550xx55550x00x05500xx:5:::0:::.              ...::...:..:. ...:...              .            </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">5xx5550x5500x0005000xx:500::::... .  ..     ..   ::.. :::::: . :  .   .                         </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">xx5xx000x50505xx:50x5x0x::::::... .  .  .   ..... :::0.::::. :.  .  ..                          </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">x0x:x55x55x:xx005050x::0:::::..        ...  .::.::::::x::::..:      .                           </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">x5x50x50550xx5xxxxx0x::::::: ....  ......: .::0:::::x0::::. :   . .     . . .         .  .     .</text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">x05000xx50xx0:0xxx0:xx::..::.     .  ::::::xxx:xx::0::0 :...:                                 . </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">0xx0x0:00x5::x5::00:x::: .:  ..  :.:::::::00x0::0::0::0:..:....                                 </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">:x0x0x5050::xx:xx::::::.:::  .: : ::::0x0:0x0x0x5:x:x::. ...            .                       </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">:000x050x0x:05x:x::.:.:::.::.:::::x::x:::xx0x:x0::x.::.. .              .                      .</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">0x05xx500550xxx5555x5x55xx00x0xx:xx:0::::::x:x::0:0:00::0::x:x:::::..:.:.. ..  .   .            </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">x0x005000xx0x555505xx05x005xxx5xx:xx:::0:::::::0:x:x:00xx:x::0:::..  ..:.  .    . .             </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">5x55xx00555x550x55x55xx50x0:xx:::::::x::::::::xx:0xx00::::0:::: : .: ..  ....... .  .           </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">x005505xx0505xx0xx50x505x0550x::x:00:x:x:0::::0:x:::x5:x::::::.:::..:. .....  .... .            </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">05xxx05x500500xx5x0x5xx50500x0x:x0:0x::::xx000::0:50::::::::::::  . . .....  .                  </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">050550x5x5x55x055555550xx5xx:::xx:::x:::::xx:x05000:0x::::::.::....:. :. .  . ..                </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">550505055555x5x055x500x5:0500:::xxxx5xx::55:5x:::0:0x0xx....:::.:..:.. . .  .                   </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">0x0005xx005555500x500x550xx0::05x::x:x50xxx:00505:x::x:::. .: ...:. . . . ..                    </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">555xxxx550x055xx5x05x55x50:x5x0:x0xx::5xx500:000xxx:::x:   .:. ...: .     .. .                  </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">x55x005x5xx00500x5x::0::x5:x::x0xx500x00x5:0x0:00::x::: .:. : . ... . ... .                     </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">x050055x05x55x50:x0050xxx00xx05xx000x05x0x0:xx:0::.. .:  :..  .  .  . .                         </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">5555x50x555550555555x50xx05x:0055x555x000:000:0::.::.:..  ....  ..   .                          </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">0xx5x50x55x50xxx500xx5050:05x0x050005x0xx550:::0:.. :..:.. .  .   .....    .                    </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">05500x0500555xx:00:5:00055005550x5050:x:::x::x.::.:.. .. .... ..    .                           </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">x505505xx0x00x0xx:0:0:xxxx50x5xx0005x00:x:x::.: .    .  .   .   . ..   .. .              .      </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">005x50xx505050x0x0500x050xxx5x0x0x:0::xx::x.   : .. .. . :.. . . .. ..                          </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">05xx0505005x00500:xx000x50555x55x0x::0::::: :.... .....:. ... . .  .                            </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">5x5505x050x0x:xxxx50000x5xx5x:0x5xx00:::::.:   .... .   .: :   ... ..                           </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">05xx550:505xxx0x55xx5x0x000555x50:0:x::..:.. .     . : ..:::...  . .                            </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">x05xxxxx505x505xx55x50x505x55x:::::.... ..      . ...:.. ... .    ..  .    .                    </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">x55xx::x55xx55xx50x550xxxx50::x:: :.:. .   . .. . ..:...:.:.. . ..                              </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">0xx:xx050555x5xx555x555:x:0x:0x::.:  .. .....:.  :. .::  : :...                                 </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">xxx:0x:x0x505005555x50x0x:::::.:..:..   ...:..:.:.. :::.::.... .. .     .               .      .</text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">5x0x0x0x0x0x055xxx5xxx50x::: . :: ::..... ::  . : :.::.:...                                     </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">x5055x505x50xx50xx00000:x:..:.:. ....:.. .:::::0:::.::... . ..                                  </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">5x55000x50xx05xx50x:x:::.:::::.:::..:.:.::::::::.:::..:...  .                                   </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">050xx555x5500xx:xx0x0::::. :..  ::.: .::::::::::.:    ....                                      </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">x505xx50550550:x0:5::::::.:...:...:: x::::0:::0.::::.....   .                            .      </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">xx0055x0x0x05x500:x:0.:...::. ::.::x::::x0x:::::.:.:.    .                        .        .    </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">05505x500x0x55:0::::: :..:::::.:::::0x:::00:::.: :  ..                      .                   </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">x50x05x5x00555x55x005x5505x55x050xx00:x:5::00:0x:::x: x : : . .. .   .. ... . .  .              </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">555x00555x5050005555x50x0050000050x0:xx::x:::::0::::: ::::. . . .   .    ..   ..                </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">55555xx55x5050xx50x55x05x0x5x5:500:50::0:x:::00:::0::: ...    ...   . . :   : ..    .  .        </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">0x0055555x50x5x0055x50x0x5x0x05xxx5x0::::::0:::::: :... ... :.. ..  ... :: . :  ..    .    .    </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">50x50x50000x555555x5050x0:0x0x::x00::x:::::xx:::x::.:. :: :.: . ...:.::......                   </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">555500xx05505050555x50xx0xxxx5:00xx::x:0:x0::x.: : ..::. .: ::.: .::.:.:: ..   .       .        </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">5055x555xxxx05xxxx555500:5::5::0:x::::0::::::0::  :..::... ..:.:. :: ::.  :. . .   .            </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">50055x55xx05xxx5x55xx:5005::0:::x0::::::0:x::0:.::::   .  :.:.: ::::::. :.. .   .               </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">0x55x55x5050x550500x5x0::xx:00:00x0:0:x:::x:x::::::  : ...: ::.:: .: .:. .. .         .    ..   </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">5x5xx5x0xx0505x5505:0xxxx0:x::x:x:x::x:xx:x:::x.:::::.:::.: ::::.:. .    .    .    .      ..    </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">05xx0555x555x0x:0x50x:5::::5x000x:x5:x5xx:::::0:::::::.:::0:::::::: :.:.  . .           .    .  </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">x00x055555505050::0:0::0:xx::0:xx5::xx5:::0::::::::::: :x::.::.:::..:. .. ..                    </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">xx055505555x005:0x0x5x::00xxxxx05xx00:x::::0::::::::: ::::::::..:.:.:    .                      </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">5xxx505x5x00x0:x:5xxx:x5x00x0550xx:::::xxx0x:::::0:.::::::::.:.. : .                       .    </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">5xx555505::5x50:00:00:x00:0:x0xxx00::x::::xxxxx:::0:::x:::::. .:..     .                        </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">500x5xx050x05xx:500xx0:x0xx5:x05x0050x:::::xx0x::::0:::0:. :......        .                     </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">xx005x05555x0xx5x0x:x55:x00555x000x0000:::x0::::::.:x:x:::::::...   .                           </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">50xx5:5xx00005x:xxx:500x500xx55x0:x50:x00:::x:x::::::::::.:... ..                               </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">0x50xx0:0000x05x05x055x00x55x00x0::00::::0::0.::::::: :::.          .                           </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">x55xxxx05::550x005x55555xx0x0x0x0:0:xx::0:: ::x ::.::.::. ..   .                                </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">x5:x0x00:0x5x0xx5x55xxx5xxx000x5x:x0xxx:.:.:.:.::... ..    .                            .    . .</text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">x0::00x0005550x005505500x0xx0x:::0:x:::::x::::: :.:.: ..  .   .                                 </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">0050x550x55xx05555x05x5xx5:x:x::::::0:.::.:::.:.::. .. .                                        </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">0:xxx55x5x55x55x5xx5x5x500x::::::::..::: ..:::.....  ...         .                         .    </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">0xxxxx050x0555x55xx0xx::x:x0:0:::::::...:   :::..  .  .                                         </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">0555x55x5000xx50x55500:x0x::::.::::.::::::..:. ...                                        .     </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">5x5550550550550x5005x:00x:0::::::  : :: :: .   .   .  ..     .  .   .                  .        </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">050555xx0x55550x:x50:::::::.:::::.:. ::... ::.            .    . .                              </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">0x555x05x5x5xx0xx:0x:::::::::::..:::. :::.             .                                        </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">x55x0x5x5555x5xx::00::: :. :::.:::: .:..:...    .    . .       .    .                           </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">5xx5x505x5x00x55500x555xx5505x55x500x0xx5:xx5:::::.:.:..    ..      . ....:. . . . .            </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">x5555x5505x0x50x5x5055055x5x55x5050xx5x0xx0xx::0:.::  .      .     . ...: ...:..   .            </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">55555505555x5555x5xx55x005x05xxx5::x0000:xx::::::   ..  . .  .. ....:........ .     .           </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">055xx0505555xx55x000xxx05x550555x5x:0:x::::::::.:... .    .  ..  : :: ..: :: . ....             </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">55555x5xx5x5x05505x55x0x00x55xxx5::0:::0:::  :::    . ..  . ....::::: .:.: ..:                  </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">5505000005x50x50xx5x505505x00x0:0x:::x:::...:   ..     ... .:::::.:x.::.:::: . .                </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">0x00xx5055550x5x05505xx0x::::x0::0:::.:.:.....: .....:...:.:::x::0:::0.: ..:..                 .</text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5x05xx05xxx5xx055x0x55xx:x0:::0:::::::::: . : .. .:..:.::.:::::x::::x0::.....  ...      .       </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">x0x005555xx00555000x5055:00x::::::::::.::  .. ..::::.::.:x0:0::::::0::::....     .     .        </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">555050055505050:5x5xxxxxx00x:0:0::.x::::: :::::.:::::0::::::00x0::0 ::: .. .                    </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">0x5000550050x:0550::::0::::xxxx0:::::..::::.:0: 00x0:x5:0x:xx:::0:x:::                          </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">555x55x0x:55x0x::::::x:x:0:0::xxx:x::::0:0:::0::0:x:0x0::000::::::.: . .                  .     </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">55xx00555xx0:00:0::x::0:::::x0x:x0x0::::0:::00:::x00x00:005:::::::  ...                         </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">055x0050055::x:::::::50000xx:00xx:0xxxx:x0x0xxxx0xx000x50xx:x:.: :.                             </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">05x5x500xx:x0:0:5:0::00xx50:5:x:x:0x:x0x0:xxx:xx0:xx0x:x:x:::..... . .     .                    </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">0000xx0:0xx:::::50x::x000x5xxxx55:x0:x5:500x0x0x5xx0x0::::::..  ...          .                  </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">xx0x00:5:::x:00005x00xx:505x00000x:0x0:0xxxx00xx:0:xx0::::.... .         .                      </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">550x00x5:0:x:x:05000xx0xx500xxx:5500x000xx000000xx0::::. :..      .                             </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">0000:0:x05:550x5x05x0x00x5x505050505:x50xxxx050:::0: :.. .                                   .  </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">xx0:5:::x5x55x5550555x5xx05x5x00xxx00x:5xx0:::::::: .. .                                        </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">x0x50x5x5x5555x05050555x0x55xxx005x000000000::::.:: . .    .  .                                 </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">:0505550050xx55x0x550050xxx55x0xx00x:5xx:::::::..: .                       .                    </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">0005x505xx55550x005050x5x0x0xxxxx50::0x:x:::: :...                                              </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">50x5x55555505x0505x55x5x0x:500x::0xx::0:::::..    .                                             </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">5xx5x555055xx5x5xx5x5x0000x000:::0:x0  . ...  ..          .     .  .  .                         </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">5550005xx5055550550x55:00x::::::::: .:.:.   .             .        .                           .</text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">05055x505505x550055:x0:x:::::0.::::... .....               .        .                           </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">555555xx000x55x50:x0:0:0:.::::. ::...  . ...            .  .   .  .    .                        </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">05xx50x550x005xx::x:::::0.. :.:.. .. ..... .              . . .......                           </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">0xx5x0xx555xx0::0x0::::. :.: .:  ..           .   . ..   :..    ..   .           .              </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">0xx55x0055x550x55555550x5x555x5x5xx5055x000x0:x:0: :..          .    :...::...  .. .            </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">05055505x5505x55x55x05x550x00x00550050x:5x0:0: :.    ..  ..    .  .:: ...::  .....              </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">50005x55x5x505055x5550xxx000xx05505000x55x::::.. . .  ...   .. .:.: :.::........               .</text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">5xx0055x55055x5x5x5xx5x00x05xxx00xxx00:::..:: . . .  . . . :..:::::::::::: ::. .                </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">00xx550x555x5055x0x500x555xxxx555x0:x0:0.  :.    . . .. ... ::::0::::x:: .:. ..                 </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">50x05x50x00055550x055x500500x:5x0:0:::x::..... .  . .  ::::::::0:x::::.::::       .             </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">5505x5000555x005x0505500x0:5:5x00::x:::..:..   .. :...:.:::::::xx:x:: .: ..                     </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">05500xx5505x55xx5005x5xx0x::::x::0:....:..... :.:....:::0::0x:0:0:x:::...        .              </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">500xx055550xxx55x55xx5x0:0:xx:::::.::.... .. : :.00::0x00x0:xx:::::::... ..              .      </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">555555500x55x5x0050x005x:x::::0x:::..:: :::..:.:::::0:5xxxx:::x:x:: :.   .   .                  </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">x5x5x50005x50x:xx0x00000:0xxxxx:::x::::::::x.:0x0::xx050::xx:0x:::.....  .                      </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">05x05xxx0x0x0050xx000x:5:::::::::::::.::::xx:::x::05xx0:0xxx:00::... . .          .     .       </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">x0x505x50x555:0x0:00::0:0::::x:x0x::0:::x:x:00xx:50xx5x5:::x::.:..                    .         </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">x0500x:00x05:x0:5xx00:x:::0::xx:xx:::x00xx050x:xxx0000x:0::::.   ..                             </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">55x0:5050x500x00:x:5::0x:5:0::000:0xxx:0:0xx:0:50x5xxx:::::. ..              .   .         .    </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">::00xx0:0x00::0x::x0x05:x00x50x::x:05:x5xxx5005xxx:0::::.:  .            .                      </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">5x0x:xx::0xx05050000005xxx00x5x5:x50x0x000:x00550::x0.::.. .                 .                  </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">xx00:55050xxx50x55:xx50xx055x5x500xxxx50x0x:0x50:::::... .        .                             </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">x50:xxxx5x00x0xx5x5xxxxxxx5x055xxx55000:500050x0::::  .                                         </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">x500x0x0500555x05555x0xxx0xx5:5x50xx5x0x::00x:: . :.                     . . .                  </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">55xx55005000000x55x50x0x05xx5550xx5:xxx:x:::::.... .                 .                          </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">5550505000x05x0x0x005000x:0000xx5500xx:x0::: : ..             .     .                           </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">550555x055550550500x50500:050:00:0xx::::::... .                      . ...                      </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">5x5x05x55x55555055x55550:00x5:x00x0::::: ...            .    . . ..  . ..                .      </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">x00x0505x05x5x05500050:x00:x00:0x::0:   ..   .             .. .   . .. .                        </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">55x55500xx5xx50500x50xx::5:0x0::x. ::. . ..            . .   . .. .                             </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">055555550xxx00xx:0500x0000:x0:::::.:. .               .    .   ..    .      .      .            </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">x5xx505xxx5050:x50::00x0:0:: :.:.....               .   .  :. ......                            </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">550x5x55xxxxxx55:0:x::0: :..:..:..  ..           .  .. ..:... .:..                              </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">5555x0x0xx0xx5xx:0::0::.:::::: . ...  .  ..  .. ..:::. :::.:. . ..       .                      </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">005xx505x5x55x00555555x005x50xx05x0xx50x00xx0::0 ::. :.. . . : ..::: ::x:::..:..                </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">x5x50x555505055550xxx550xx0xx005x505x55x00:::::::. .. .....  ::..:.::: :::::.:...               </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">x00xxx05x55550x505555xx0505x05505xx5000500:x. :::   :  . .  ...::::::x0. .. ..                  </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">505555x505x05x055x50505000xx50x5x5050x:::0:....  ... ..:::: ::::::::::  :....                   </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">5505500005xx5xx0050xx0x05xx055505500xxx::.::..:...:...:::.::0:x0::::x:::.    .                  </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">555x555055x5050x5xx05505x00xx000x::00xx:: ::.:...:.::.::0::0x::::::::: . . .                    </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">5555xx055055055055005x5x55000x:x::0::x::..:.:..  ....0x0x0x:x::::::...: .                       </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5505555x0055xxx050550500xx5055000::x::.:.:... :::::::0:::0:::xx: :.::.   .                      </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">05555000055500x0550550x000050::::0::::..::.:.:0::::x0::::::x0::::.: .  .                        </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">5x55x0000xx000xxx5x00x05000:x0x:::.x::.:::::0::x::x0:0:0000::::: . .             .     . .      </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">05000xx55x50055000x0xx505::x00::::::.::::. :0:::x::xx00x::x :. .                       .        </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">05550xx50xxx50055500x550xxx:0::::x:::x:xx:x0:00xx00x::0x0:.::. .                   .            </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">0x55x5x055005xxx05550005::0:::::::0x:::0x00x000x5xx::0:::.:: . .                .   . .         </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">555xx50x055x0xx50505x:550x::::00:::::x:::x5xx05x5::x:0:: :..  .                 . .  .     .    </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">x505555x00x0x000xx500000x:0::::::::::::x:5550x00x:0x:::::..       .       .     .  .            </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">5x5x500x5x5x055550550x00x5:::00xxx505xxxxx000x00x::::.:.  .     .     .  . . ..                 </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">555xx055000xx55xxxx00x::5x:0:x05:x0x5x::000:000::0::..... .        .          ..                </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">5x0500x500005500x00x0xxx:0::xx0:50555:::50x5:0:x::.:..   .               . . .                  </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">0xxx50x55000005:05:xx5:5xxxx0:x:0xx0050xxx::::::::. .. .           .                            </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">555500555xx50x05:xx005x5:0:0:xx:5x00xxxx::0x::: :...               .  . .  .  ..                </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">5050x5555x55xxx55x:5:x550x0500x50x550xx:::x:: :..             .  . : .. .. ..                   </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">05xx0555xx5055505x0xxx500:xx0x00x5xx:0::::::  ..          ..   .........                 .      </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">x55055x0x000x5x505005:05xxx0555:555:x0:::: . .             . . ..  . ...                        </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">5x555x5555x50:x:x0xx0550:550x:xxx:0x0::.....   .          ... ..::.  . .          . .  .        </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">xx555005x0xx000xx0x05x5x:xx:xxx0::::::: ...               ..:... ..    .                        </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">5xx55xx500500:x:50x::5:0000::x0:::.:   ...  . .   .    ...    . . .        .          .         </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">5555505xx5555x50xx0xx0:x000:5:0x:::. .   .    . .....:::   .:.... . .                           </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">05x0xx00x0x050xx05x:505x:x::x:x.:  .  .    .   ..  ....:.::...: .                               </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">55xx0x50x00x:x0x0xx:5x00:0:x:x ::::. . .. .  ..   . : .:   .:                                   </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">50x500xx0:0xx0x5x:x:x:x00:::.:.:.:. . .  . . ..:.:.::.....: .. .  .           .                 </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">500xx0055505x00xx00x0xx50xx505050xx50555000x:::0x::::::::0:::x0:x:::0::::. .  . .               </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">x055555xx55x5xx05x500xx50555050x0x5x500:0:::::x::::::::.0:::0:x::::x.:: .:    .                 </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">55x5555005x50500505x05x0x0xxx5xx555x0x50x::0::x :::::.x::::0:0:x:::::... .   .                  </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">xx55x505xxx50x05xxx55xx55xx0x55x555x00x0x00:::::: ::::x0::x0::0::. : .:  .                      </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">555x5x505050055x5x5xx55x50xx00x5550000x::0:::::::.0x::::0:::::::.:  .....   .                   </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">0xx555x505xxxx05055x555055x0005055x0::x:00::::x:::0::0::0:x:0:: ...  .  .   .                .. </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">505x0x5xx005x505055x05000x0555x005000:::.:0x:::::::::::::::::::.:                               </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">0x055x5550x5555x0550000x0x55x0:x050:::::::.::::::x:::0:0::::::.. . ..                           </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">0x55x5xx505x05555xx5x550555x0550:0:::0:x.::.0:::::0:::::0x.......        .                      </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">x505050550505505505x05555005xxx0:::::::: :0::x:::0:::x:::.:.:....                     .         </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">505xx5x555xxx05550x005xxx5000:0x:::::. :::::::x0::::::x.:.. .                                   </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">0x0500505555555555x500005:0:x::::.::: :::x:::x::0::::: ::...  .                                 </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">5xx500550555x05xx555x550:5x:x:::::::::.0:::::xx:::::. .::...              .. .    ...           </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">5xx005055x5550055x5x05050::::::0::: :xx::x0::::::0.::.. . . .               . ..  ..    .       </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">xx5505x0555x555500000::::::xx.:.:0x:x:00:x:x0::::::..:..          ....  . ..  . . . .   .       </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">x5x55555xx0x505x0x50:x:0:x ::.:0x:::00::::5x0:x:: ::..       . .  ..    .   :. .               .</text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">555xx05x500x50x5000:::::::::::0:x:x:xx:50050:::::::: .  . ..    ...    .:. :. .                 </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">555x5x5055x0505x:0xx::::x:00:::::x::5x:::x:0::: :.. . .  .  . ... .: . ...:.. .                 </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">5055505555xx550:::0xx:::0x:xx::050:500xx0::x:: : :.     .... .. .. : .:... : .                  </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">5x000555x5:x:0:::::::::::0:::05x50x:::x::xx::..:: .  . .     .  ..:.::..                    .   </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">x050555:05:0::::0:::::0000:x:x00x0::5x:x::.::....:..   ..  ..:.:.:.::.:. ...      .             </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">x500x555:00::::x:x:::x00xxx0x0::x00:x5:::.:: .  ..   . ....::::.: .:.:..                        </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">0x0050x0xx::xx0xx00xxxx5x0:xx500500x0x0:x:::: ::.. . :....::::: ::..  ..                        </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">055x05x5:::xx0x0xxx:x5:xxxx50x05000x0::::.. :.. :...: :.:::.... .:... .                         </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">5x550x0xx0x0x00:0:xxx5555x05xx5x0:00:::..  . ... :..::.:::.::  .  ..                            </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">5xxxx00::5x00xxx:5:050555050x0x0:::0:::.:: .:. ... ::..: :::..::                                </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">x0xx:0050x55xxx5xxxxxx5x0xxxx00x:x::  ...    .. .:..:.::.:::...                                 </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">5:xx0xx0x5x:0xx5x05550xx50050x::::.::: ... ....: ..:..:: .  .                                   </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">x0x0xxxx00x55x50550x05xx0:::0:::: :.....: :.: ::::  : .::..                                     </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">xx0x50005x55x0x000xx0x:x5:0x00::.. ....:.:.. :: .:::::....       .                          .   </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">x505550x5::x:50:00x:0x00xxxx5x0x55x0xx0555x0x0x0x0550x:x00:x:::0::::.: .  ..  .                 </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">x55xx5xx50005x5:00x005555550x5x0505x0005x0xx:::::::0500:0:00x:::: .::....                       </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">0x055050:xx505xxx5x550x550055055x5555x0xxx500x0000x::x:::x:0::::. . ....                     .  </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">005xx505:x05x0x555550xxx05550500x05x00:xxxx5:00::xx0::x0::: :::.: .  .  .      .                </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">5xx5x5500x00x505055x5555005500550005x05:00x::x0::xx::0:x:::::..  .   .                          </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">55xx5x0005x55x5555x05000505x55x55x:5:xx5x:0x::0x:x:::::::. ::  ..                               </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">555x0050x5x5xx0500xx5555x0xx0xx00:05x0x0xx00::::::0 :::.:: .   .. .      .                      </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">0x55x55550x555x55555055500555xx0x::0x:0:::0:x:0:::.:. :.: ..   .                                </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">5xx50xx55055055550555xx05x0x500x::x0::::::::::::: .:: .:.....  . .                              </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">5555000x0x0x555x5555x0x05x0xx:xx:::::0:::::::::.:.::..:.    .    .             .                </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">55x5x55000x0550555x05500xx55500:::x::::::.:.x.:: :...... ...         . .                        </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">5xx05x555555x5500550x0000x:x::::0: ::.:0:x ...::::. . :. . .          . .   .. .                </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">050505xx0055055550505xxx:::0::.0:.::::::::: ::::::..:...   ..  ..   . ...  ...   .             .</text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">0x5xxxx0505x555x55000xx:::..:: ..:. ::::.:::::::. .  . . . .        . .... . .. . . .   .       </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">055505055x55x00055:0x:::x.::::::::::::x:0:0::::..::.   ...  . .. :.  ..:...   ..    .    .      </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">00x550xx0055005x:xx:::..::: :::.x:::::0::x:::::  .... ... .....  :  .. :....   .                </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">00x55x5x5xx5xxx0:0:::.:::.::.::::x:x:::::::.:.::: .:..::.. .::.. .  .::.    .  .                </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">5005555550:x5:x::::  ::::: :::::0:::::0::::0::::.:.:.. :..: :::::  . .:. ...                    </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">x55x0x5xx0x:0:::::. : ::.:::x:x:x:x0:0::::::x:.:. .:....: ::::::: ::      .. .       .          </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">55x5x00550x:0:.::.::::xx:::0:0:xx0:5x:000:0 :: .::.:::: .::::.: . .......                       </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">050550xx:::0::::::::::::0xxx5x:xx0x::0x::::::::.::::::.::::::::.:...   ..                       </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">0x500::x::::::::::::x:x:x50:xx:00xxxx:::::::.0::::::0:.:.:: :.:.   ..   .  .                    </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">0x00x:0:x::0:::::x::0x050x0xx005x:0xx:x::0::.:.:: :::.:.:::::.: . ..                            </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">5:xxx:0::::x:0::0005xxx55005xx50xx5:x:0::.:::::x :..:.:: :.:.. ..                .              </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">0:0:000xx:::x::00x55x0055xx50xx00xx::::: :::::::.::. :::. :.. .            .                    </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">::::::x:00xx05xx0x05555055x50x:xx00:0:..:::::::::.::.:.: ...   ..                               </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">::x0:::x0:0005000555x5555xx0xxx0:x::0::x..:::. ...:..::  .. .                      .            </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">xx00:0x5x5555x0x55x5050550x00x5::::::::: .:: . : ::. : .. ..                                    </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">0:x0x55055055xx050505x55xx050:x::.::::::...::.::. .: .                         .                </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">5:x550xx0x5xx55500xx5550xxxx::::::: .:. .::.:..::.  .                                           </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">50x505x:xxx0x:0xxx:5x5x505055505x005xxx00x000x0x:x5x00:5::::: :.:.. . . .  ..       ...         </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">0x05050x50000x05:x0x5550x05x555555000x00055x:555xx00xx::::x:0:... ..    ..   .    . . .  ..     </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">5x0x:5500::0x0x55x5505xx55505550xxx0xxxxxx:x:5xx00x:50:::::.::  . . .  .  .   .. ..      .      </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">xx0:0xx55555055500x05055555555xx5x5500x0:5:x0xx::x:x:xx:...:...             .    .              </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">x50000xxx05x05xx0xx555x5x5x55x5050x0xx5:x0x::0x5:0::0::: ... .  .    .                          </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">0505xxx5x55x555050x55x555x055x0xxxxx::5:0x5x:xx::0:0:.: . .          ...  . .  .                </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">50xx0x555x0005x55505555x555050x5x0xxx00xx:::0000.::::.:  .   .       . . .   . ..    .          </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">xx5xx5555050055055550xxxx550505x50xxx0:x::0:::::: :...:... .  .     .  .  ... . .               </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">xx055x5555xxxx555055x500055x050x:xx0x0:0:x.::::::.::. ..    .. . ..    ......                   </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">0055x5x50xx5x5555505050x550:5x:5::0x:0:x0 ::0.::::.  ...   .   ... . .....   .                  </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">0x0550x555x0xx555x5005x5xx:x00:::x:x::::::.::::..:..:..    ..  ..     . .  ..                   </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">550x0055055x5x55x050x5500::0::::0: ::::: :::. : .. ...         ...: .: ::..  .                  </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">x5555xxx0x555550xx50000:0::0:..::: :::: ::  ::.... . . .....   .:.  : : ..      .               </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">505x00x055x5555x050::::0::::.. :: :::::::::  ..:..   . .:::.:::...::..:.  .        .            </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">0x550550xxxx0000x00:::x0:0::...:.:::::.::::::::.::. . .:::::::.. :..: .  ..                     </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">5555x5x5550xx:00:xx0::..::::::.::::::::.x:x:.:::..: :..:::.:: ::::.: . .                        </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">x5055x00x5:xx::x:::::::: ::::::::::00x::::..:::: ::....: :: ::.:.:   . .                        </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">555x5x5xxx05:x::::::::.x:: :::::xx::0:x:x:::::0::::::::::::....:  ...                           </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">5555x55:00:::.x:::::.::::::0::::xx000:0x0::::: :.: :.::0..::.::......                           </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">5x5x0:55::::.: : :0:x::00::x:x5x:0000::::xx:::x:::.x:::.:.:.:   ..   .                          </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">0xxx:x::x0.: x.:::::x:x5x555x0xxx:xx00:x:::0::::::::::::. :.  ... .        .          .   .     </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">500:x::0::::.::::::::x:::x::50:x5x:0:x::0::x00::::::0::.: . .  ..           .         .         </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">0::x0:::::.:::xx5xxxxx5x0x05x:::0:0xxx00::::x:::::0:: ::.. :   .                   .            </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">50:::x::::::5::5x0x0005x5x500000xx00x:000x::::::.:.:::: .                          .            </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">00:0:x0:0:000:x55050xx50xx0x50x0:000:::::::x:.:.::.... .   .                                    </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">:0:0:00::0x5x0x5x55055x55000x5x0:0:0::::::::.:::.:.::  ..                                       </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">:x05x00005505xx0000x000555000x5::0::::::: : .::..:. .   .                     .      .        . </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">5x0x500555550x05xx505505xxx5:x00::::.:::..::.: :. :.   .                                        </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">0xx50x055x05055005000x0xx00x::::0.:::::.::.:..: ....                                         .  </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">0505xxx5555x5x5x00x55550xx::::::::::::::.:: :..    .                                            </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">00x000x5x5055xxx0000555x5x555555xx55500x5xx000x000:x00::00::::  .   ..  .   .. .:.: .:....  .   </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">5550xxxx055xxx05000555500x005555xxx05:5x5xx0xx5:5xx:00::::::.         . ...: . . :.....  .      </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">x00x550x55xxxx0550x05x05500555505x05x50xx:x:5:0x:0x::::::..    . . . ..   :.::.::..:..  .       </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">005x5005550550505xx05x505555x00x0x055x:x00x00x:0:x::x0:..: . .  . .... ...:: .::::.             </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">x555555x5x5x50500055005x00xx055x505:0:5x05xx:55:x:: ..::     .   .... ... .: :..  . .           </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">00055050055x55500x05x00555x5xxxx500xx:0:x::00::xx::::::     ..   .  .::::::::::.. . .           </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">x550xx0550555050550555x0500x5x550050x:::000x::x:.:: ..... ....  ...:.:::...::... .              </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5x500x550x55x5555x550x0x500x05:55:0xx::::::xxx:.  :.:  .   .: ...:.:...:::. ..                  </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">5xx5x55555x505xxx0x5x0x5xx0x00:x:x0x::::0x:::::::: . ...  .. :..:::::: :....   .   .    .       </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">05x50x0x50550x50x5005x55:05:5:0x::0x:::x::::.::.:.:..:. :...:.::::.::.: :. .                    </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">x555550x50055x055x0x05550x0::xx0x::00:0::::::.:...::.  .: ::::: :.:::.:.. .                     </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">550x0x05555550050055x0x:0:x05x0:::::x:::: ::.:.. :. :.::..:::::::. .:  .                   .    </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">55000x555055555055:5x0xxxx:::0:::::x::::.::: .::..:::::: .:: :::::: ..   .                      </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">0000x555055xx000550x00:00x:xxx00x:x::0::x.: ::.:.:::: :::::::.:: .:  .           .        .     </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">500xx0x05x55x5x:5x0::0x:00x:xx0::00:::x: :.:::: ::.:::.:...:.:.::.              .               </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">0x0x0550x555x0xx000:x:::::x:0:x::x:::x: ::.::.: :.:::::::::.:.. . ..                          . </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">5x5550055555:x0:0x::0x:::x:0xx::::::0:::::::.:::::::.:::: :..    .                              </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">5x50005x0xx5x:00::0::xx50x::0::0::x:x:::x::::.:.:::0:. : .:.:.. .       .                       </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">5xx0xx00:x:00:x::0x::xxx0x00x0x:x:0:::::x:::::0::x:::::::::..  ..               .  . .          </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">55555xx0x00x::0x:::x::5::x0:5005::::0:x:0::x:x::::::::..... .                                   </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">55x5x:0:::::00000::050xxx50x0::x00::::0:::0x:::::::::     . . .                 ..  .           </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">0x:0x0x:::0:0:xx00:5:05xx0x:0x:000:x0:0:x::::x::::::  :  .                          .           </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">0x0:0xxx05:0050000:0505x0050500x00:0:::::::::::::. : : .                   ....                 </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">::05055x0xx5:5xx::500005x0:::x50:x:::::00:x:::. ::  ... .                .. .                   </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">5xx0550x0xx05xx05x5555x5xx0xx::00::::x::0::: ::::... ...           .       ...   .             .</text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">x::xx0:x0xx0x05x5x5xx00x0500:x:xx:::x::0x:.:::::...    .        .       ....      .             </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">x05xx5xx0x55x000xx0505550x5:0::::::::x:: :.::.:... . .           .    .  .  ..                  </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">5505x05x5x5550x0x500x0x55x0xxx:::::.x:xx:..::.. .   .         .  . .  . .                       </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">00055x005xx5000xx0xxxxx00:0:0:0:::::  ::.:. ::.  ..       .  . .. .    .                        </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">500xxxx55x50000050x550:x:x0::x::::0 :.: .:    .            .   .  .. ...               .        </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">0x5x05x55x5x5x55x050x0x55000x:00x0x:0050:00x0x:xxxxxx::::.: ...  . .   ...:..::::::::::.:  ..   </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">5xx5550x500x05xx500x00x0x000:x0x05x0:0:0x:x5::00:0x:0: : : . . . .. . :.::.:0::::::::...   .    </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">555x05505xx05x50x0x5xx55x:xx50xxx000x:x0000:05x500:::::::. . .. .: :.:.::::x::0:::...:: .       </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">555xx00550x55005x05x05000xx00xx0x:5x:0x000x05x:0x:::: :...::.: ...:..:.:::::::: :.::..          </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">0x000005x0x5x5005x550xx00xx:x505x:0550xxxx5500:x::x:..:: . .:...::  :::x::xx: :....  .          </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">55x555xx5x0555x550x00555xxx05xx0xxxx50:xx::55::x:::::.:....:....::x::::x::::::  :.              </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">500xx0x055x0x5xx0500505x0x:0:0xx50xx::xxx0xxx:::::::: ::.:::.:.:xxxx:0::x:: :. .   .            </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">0x055505xx5055x0xx50000x0x5xx5505505xxxx000x:::0::::. :.: ::.::::0::::::::.. ..    .            </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">55505050x00x550xxx0xx:550xx55:5x0::x0000000:x::...::.:::::::0:::::::x::.:: .          .         </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">x50x5x500055x05505x000xx005x0::x00xx:x::5:0:0::::..:::: :.xx:xxx::::.:.. . .                    </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">05550xx5055x5xx55x55xx555xxx55xxx50x::0xxx:0::::::. ::::::::::::0::...                       .  </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">5x55xxx5x05500xx555x5x0555xxx00x00xx5::x:::.:x0::: .::: :::::: ::. ....                         </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">5x5x555x55055x50xxx5x005xxx5:0x0:x050:::::::::: :: :xx::::xx.0: :                             . </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">055555x555xx0x0x5x0x0505x05xx:5xxx:x::::x::::: :.::::::::::: .::  .                             </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">505555x505xxx5550005x05x5xx5xx:0x:0:x:::::::::::0 ::: 0 :: .:.:.                                </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">005055555x055x5x5x005x500:x5:5x0:0:::0::::::.:..0:: ::::::.... .                                </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">500x5xxx05055x505555055x50:0x5x0:::x.: x:::::::::..:: .:: .                    .                </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">x5500x5xx0500x50x50xxx50x000x:::xxx::: .:::x0:::::::.::. ...               .                    </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">x0505x55500550xx050505:55x00x:0x::x.:::::::::::.::::: ..   .          .          ..  .      .   </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">05550x000x505500xx00xx00:0:x:0::::::::::::::0 x::::..  . .                        ...   .  .    </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">5555x0555505x00x5000::5x:0::0:::::  ::. .:: :.x::::.....      .           .     .: ..   .       </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">x05xxx0055x00x5050050xx0:::0x::::::::::.::::.. .:. :...    .             .  . .:  ...  .        </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">000xx55x05x5x5::05x05:0x::::0::.0::::::.::::.:..:  .                .. ..   :.:.. .             </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">x0000:xxx550xx0:x:05:x5:0:0:0:. 00: :xx::::::::.. .                   .. .: ... ..             .</text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">x00050000xx05x0:0xx:0:x0:x:::::00:x::0::::::.::: ..   .            .:.:. .::.:.   .             </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">0000005xxx505xxxx0:0:0::x::x0.0::0:::::::.::..  ... . . .    ........ :: :: .                   </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">xxx0xx050x50::55xx:0::x::::x:::x::::::::::.. .  ..      . ......:. :.:.: :..   .                </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">x:55x:0505x0x00:0:x::x0::::::::x::::x::: : .. .   .        ....:: ..:.::...                  .  </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">0x05500x0x0:::00x0:x:::0::::::xx:::::0:....:... .    .  .. ::.....:....:                        </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">5x5x55x50505000:0x:::x:::::::00::0::::: ..:.:..   .   .:..:::.:.: ...  .                        </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">0xx555555055555xx0xx05xxx::xx0::0:x::00:x0x00x0:0::x:::: .:.   ..... :. :.0:.x0::x:..:.  .      </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">00550505x5x05xx55x0xxx0x:::00x::x:00::xx:xxxxx0xx:::x::::::  ::: .::::::::::0::::..:.:          </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">5x0x550555555xx05xx:000:0x:::0:xx:00x05xx0x::x0x0x::::..:.: .::::.:: :::x00:::x:x::.. .. .     .</text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">x5500xx0555x005x0::0:0::x00x:0:::00xx:x5xx0xx00::0:::::.:.: .:::::0:::::::x::00:                </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">x0xxxx000x0x505xxx:::::x:x:00xx:0550x0x:x5xxx0x::0:::: :::....:.:0:0:::::0::::... .   .     . . </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">00xx5x05055xx5:::x:::0:0:0xxx0:5x05xx00050x00:5::x:::::::0:::xx::0x:::0x:0:.: ..      .         </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">05x5x5x0x5:0x5xxx00xx00:x0xxx50x55x5x50050:000::::: .:::x::::0x:0:x::::::::..  .                </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">55x0xx0xx5xxx0x5:::5xx550555000x5x50xxx0550:5x0:::::x:.::::::00::::::0::..  .                   </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">x05x550x50x0x0x0:5x550:x050x055055x05xx5::xx:x:0:0::x:::::::::0:x::::. ...               .      </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">5505x500xx5505x5:0x5000500050x55x55xx0xx5:::::::x::x0::0xx::xx:::::......          .            </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">55xx5x55x500xx505x05500x55x050xx500005xx:::x:x0::::::::::x::::::::.  ..                  .     .</text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">55x0x500xx05x5555x0555x0xx05000x5550::00x0:::::::::0:::::::::...:.                              </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">50xx00x050550555x05xx5x005050xx55xx50x:x::::::::x::::::x::  :::.                                </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">55050x0555x5550050xxx0x555x50x505:x0:::::::::::::::::::::::.: .  .                              </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">0x5005550x50x005555xx55500500:50x00::::..::::::..::::: :::..                           .        </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">5055x0x000550x5050555x0x005500::::x:::::.:: :::::::::::.:...                                    </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">50x555555505xx5x0xx00550xx5x50:::x::::..:::  :.::.::..: ....                                    </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">5500500555x55x0xx50x0xxxx5x:x:::: .: :::::.::::. :::::.                                         </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">x5555xx50x50x55x5xx5x55xx0::::::::.  ...:::::::: ::.....                     .    . ....        </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">xx0505xxxx55505x5x5x0x:5:::::    ..:.::::::.:::.:..  ...      .      .   .. .  . .... .  .      </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">5050x50x5xx5550xx00xx0:::::  :: .   ::::::.::.:.:... ..                      .. . .. .     .    </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">05555x0x5xx5x55x5000:::0.::.::..: : :::.:.:0:::...     .            .      ....  .. .           </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">550x55050550xxx005x::::.::.:::: ::::: :0:0::.::  ...               .. ::.::.. :.  . .           </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">55x505555055x50:x0x:::.. :: ::...:..0:::::: :: :..     .          .::.:.:.. .: ..               </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">5550x5xx5x5500:x:::::: .:::.::::.:::::::::.:  . .. .  .  .  .  ..:::.:..:::. .                  </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">555555050x:::::0::0:::::.0::::::00:::0::0:::.  .     .     . :....:::...::  ...                 </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">0505xx5xx:::x0::.::: .:::::::::::x:x::: x.::.. ...  .    :...::: :::. :.: .                     </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">50::5:x:xx::::::: :::.:::::0::0:x0::x::::::.. . . .  . ...::..  :::::..  .                 .    </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">55x050:0:::::::::00:0:x:0::x500:xxx0:::: : .    . :: .::. :. :.:: ::. ...                       </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">x55xx5x:::::::::::::0:x:x::0xxxx::xx::::.:...:.:. : .::::::::.:..:.  ..                         </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">005500505xx55505xx0:x0:::::::x:::::x00xx:xxxx0:50:x:::::: : .   :..:: : .::. : ::.:.     ...   .</text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">50x005x0555x0x500x:x:x:::0:::000:x000x050x:x::0:00x0:x:x ::..::::::x::::::::.::.: .     .       </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">x050x50x0x50x50x55x::x::0x::00:x055:xx000xxxx0x::::::::::.  : .:x0:.x::0:::: :::.. .            </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">0055x550550xxx:0x::x0:0:::::0x:0x0:x:x:5x050500:x00::::.:::::::::x::::0:::: . ..                </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">x055x0xxx0xx00x:x0:x:::00x00x00:xx0xxxx505xx050:x:0::: x:::::::::x::. :::.:.:...                </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">xx505500505x0::00:::xx000xx055x55505x50xx5:x5xx00x:::::::x::::xxx0::::. :...                    </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">05x5x55xx0x000x0:xxx:50x0x5x0xx05000x5550:0::::::::0:x:::::0:::0.x:::: :. .                     </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5xx5x50505:0x0x0:x:x5000555x05555x50055x0xx:xx::0x:::::::::x::xx::::.::  ..     .    .          </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">55500:00x50xx00x0050xx5005x5x0x05x0505x05:0x:x:0:::::::0::0:::::.. : :.                         </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">x05050x:0xx:0x05x50550x5550x5555xx55050x0:0::::::::::::0::::0::::::....                         </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">00x0x000000x55xx5005555555x05xx05050:00:x0::::.:::::. :::x:: :.:.. .. .                     .  .</text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">05505xx500550x550x5x5505050050x5xx050x:0::x00::::::::::::.:::.. ..                    .   ..    </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">5x5x00xx5005555x0x55555050555500x0xx0x0:x::.0:::0:::::: :::.:  ..  .                            </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">5550555x555x005xx550x05550x0xx5000:::.::x::.::0:::::::::::....                    .         .   </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">050xxxxx50505005x55x005050x0055x0::::: ::::::::: ::.: : .:                           . .        </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">550550xx5550x5055555x555x5000:::0::::::::.:.:: :.:x::. ... ...             .   .                </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">0005xx0x50x55xx50xx5x5x0xx05:0:::.:..:.::: :::::::::: ..     .                                  </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">550555x555x0x50xx5055x5x0:::.::.:.:...:::.:::::: :::::....                                      </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">050x00555050xx55x500005::::::  ....:::.: ::.::::::.:     .     .                                </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">50505xx0x0xx50xx5550xx:x:.:...::::::::::: :::: :.::.. .                     ..                . </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">555x0x050000555555::::::.::: .:.:: ..:.:: ::.::.. ...    .         .. ..   .. .. .       .      </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">xx50xx550x000050x:xx:.: ....:.:.:.x:.::::.x:::: :.     .       .. .. .                          </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">5x5x55x00050:0x:x:::.:.:::.:  :::0::::x:::0:::.:. . ..      .      .. .. ..  .                  </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">0xx0xx555x0::0::::.. ..:::.:::::x:::00:x::0:::..  ...   . .  ...... :..  .. . .               . </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">xx000500x0x::::::: .:::...::::::x:::00xx:x::: ... .  . .  ..  ... .:. .     .          ..       </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">x5050:05:0::.::.::::.::.:x:::::::00::::x::..:.:  . .  . .   ... .. : ..    .     .              </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">55:xx:xx0::0: :. :... :::::::::x:x::0:::.::.:   .   .   .  ..:....:...            .             </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">:0:5:00:::.. ::.:::::x::0xx:5x5x000x:0:x.. .:   ..... :  :.::: ..: . .                          </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">x50x::x:::::::0:::::x0::0:50:x:0x0::xx:.:.:  . .. :.:..::.::::: . . ..                          </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">05xxx::x:x:.::::05:0x0xx05x0xx:x5x:0:.x..::........ :::.::.:...:.....                   .       </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">x0x5x0x0x0555555x50x0x0:::xx:000x00x505000x505x0::x::::::.. .:.::::: :::..  .                .. </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">5xx55xxx550xxx00xx::x:xx:xx005:50x55000x0055::00:xx:::: : ::::: :::: ..  .  ..         .  .     </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">x0x0x55x5x505x5x::::0:00:0x:x::x5x0xx5xx00:x0:5:0::::0:.:::.::.. :..:.   . . .        . .    .  </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">x055505x550x0:0:000::xx000:050055x0x0x055xx0:0:::::::::::.: ::::::::.  .  .   ..       . .      </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">0555x05550xxxxxx0x00x0x05x5x050xxxxxx05x000::00:::::0::::.:.:: ::: ..  .  . ..     . .  ..    . </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">5x505x0xx05x00x:0000050xx50x5555555x0x50550:0:x:::0::::::::::.::.. .....    . ...               </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">5050x505:x:000:00:00x55x55055500x00055x000x:::::::. ::::::: ::::.::: ..  .     . . . .          </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5x005505x:xx05050x5x5xx555x0x00x550x50::x:x::::::x::::..: .  .: :.:    .. .  . .     ...        </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">000xxx5005x5xxx050x5x5055x5x550055:050x00:::: :::::0::x:::::.:.... .      ..  ... .             </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">xx50:xx05000x05055555550055005x0x50xx::x:::: :.:::::::::. :.:.::: ..     . ...                  </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">0xx050x05500550500x0555050x550xx0x:0:::::::::.:x: ::::::::.::: ...               . ..           </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">550000x005x5555xx005x50x0x000:500:0:x: ::::: :::x: 0::  :::.:. . ....  . ..     . .   .    .    </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">x0x05xx055x0055xx5x5x555xx05xx5:x::::x.::::::::: :::.:... :... .  .   .. ..   .                 </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">x5x00050500055x50x5000xxx05x:0x:0::::.::::x:::::0:::::::.....: . .  ...                  .      </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">x5055050005000555xx000xxx:0x0x::::::::::::::0::::::::. :: ..:.  ...                             </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">055x05500005x0555x555050:5000:x0::.x. :::::::::::::::::..... .. . . .        .                  </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">x05500xx55x00055000xx0:x:x:0:::::.:::::.::::::x:::.:: ::. . ...  .   .       .                  </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">5055550500555x55550xxxxx:::x ::::.::0:xx00::0:x::::::::...  ..        ..                        </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">50555550555005050505x::::0::::::::::::x:::x0x::::.::.::. .  . . . .                             </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">05x5505005550xx500:x0xx : ::.0:.::::::::x:::x0:0 ::.. .. .    .   .    .                        </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">x50x55550550x50x00::x:x.::::x::::0::::::x:::: :::...     .......  ..                            </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">005xx55xx005xx5x0x::.::::..:::x::x:x:x::0:::::::.:....              .    .                      </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">05xx5555000:::x:x.:::::::0::0::xx0000x:x:::::. .: : . ..    .                 .                 </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">x5050505x000x::x:.:x::.:x::0x0:0005:xx0:::::.:.  ..    .          ..                      .     </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">xx5000xx0:::x::.:0::.:0:0:::xxxx5x5x00:::x. :...  .    ..   ..                                  </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">555xxx:x00:::::.::0:xx0:05x05:xx00::::::::::::.. ...  .  ...  .                                 </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">0555x:x0::::x:.:x::x0:0xxx0xxxxx00:0x: . .....    ......  . . .                               . </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">x5:x:x0::::::::::00xxxx50x:x505:x:x::::.:.. .. . . .    .  . .                                  </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">50x0::::::::::000:xx500x0x5xx0x:::0::.  .. .  . .   .. ..   .  ..                               </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">0:x::::::0::0:::05:0x0x00x0xx5::::: :.:. .  .  ..  . .  .. ..                                 . </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">0055000055550x5x5x5xx5550x5x0x00555055x000:00xxx:x::::x:: .::::  .:. .      .              . .. </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">500050555555505x5000:0x50xxx0xx050xxx:00:0::xxxx::0:::::.:::  :.  . ..   . .           .  ... ..</text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">0x055x05555x55050x0xx055xx0xx5x550x5:x0x0050:0::x: :: ::::::  .... .                 .  . ..... </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">5x5555555x550x0050x005050x50550xxxxxx0x0x::::0:::::::.:.:. :.:..               .     .:. ... .. </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">5550x050x5x5xxx5x000555x5x5050x00x550xxxx::0x:: :..::..... . :..  .           .  ...:  .:.:... .</text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">50x0xx050xx5055x5x0x05000x50555x555x:5x::0x.::: :: .. :.:.:.  .  .       .     ...::. . ::. .. .</text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">55x0505x5xxx0xx055xxxx5x5x00x500xxxxx::0:::::.::.: .... ::......       ....: ..::::: ::. . .    </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5555555x00055x5555x5x0xxx05x5x50005xx0::::.:::.:.:: .... ... .:. .. . .   :. .:::.::.:. . . .   </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">550xx55x05500x5xx00x55x50xx5x550xxx::x:::x  :::: : :: .::.... ..:.   .. .:.::.:::. :. :.        </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">55055xx50x0x5500xx50055x0500xx:xx:xx::::.::..:::..:   ..::.::.  ..:.  .:.::::: .::: . . .      .</text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">5505x550x05505x5xxx050550xx550x:xx0:::..:::::::::::::.: .:.::::::. ...::.::.:::... .            </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">50555xx0505x505xx55x05555xx000:x:0:::.::: :.::::::.::.::::..:..:. :.::. :.  ..::. .             </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">0xx55x05x55x55505050x05xx50x:::x0:::::::::0::x:xx:x:::x :.::.: :.:: ..:::::.     .           .  </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">0x5055x000055555050505xx5x0::x0x:::::0::000:::x:x:0x:::  :::.::.:: ::::.....  .                 </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">x5005500x0x005xx505x0x5x00:::00xx:::x:x:::x::::x::x::::::::::.:.::::::.: .   .            .     </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">055005505505055x0x0x:0x::000:x:::::::::::x0xx::::x:::0: ::..::..:.:..                           </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">5050555x555005000xx0:0x0x::::x::x00::x0::x:x0:x:x::x.:::: ::.  :.  .  ..                        </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">055055x05555x05555:xx::x::::::0::::00:0:x:0:0:0:0::x::.:::::. ..:. ....                         </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">0x0xx550005500x0x5::::x0:::::0:::x:x00::xx::xx:::::.::::. :.. .                                 </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">x500x5050x50xx0x0:x:0::::0:0::000:::500x0::0:x:0:::. .. .    .  .       .              .       .</text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">55x050x0xx00:00x:::5x::::::x:xx5:0:x:x0x0:::::::::..::::...  .  .                               </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">0005505550x00xx::0:x:0:xxx:50x5xxxxx05:0x0:::::..:.:. ....               .                      </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">x5xx05005550000:::xx:x0:00x0::xx:00x:x0:::00: : ..  . . .                                       </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">x05555xx50xx::5:0:xxx:00:xx:xx50:00:0x0:.::. ...    .. . .                                .     </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">555xx0xx055:x0:00::0:x5x0:xxx:xx0x5:::x::::.       . .                       .                  </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">x0x55x500000:x50:0x0x5x055005::::xx::::.:: . . . .                                     .        </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">000x05::x5000x5xxxx:00000500xx::::x:::::::. .     .                                             </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">55xxxx05:x::00x00x000555050x:xx::0::.:  .    . .                             .     .            </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">0050:5:5:0x000::x00:x50:0xx5xxx::.:.: . . .    .  .  . . . .               . .  .  ..           </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">05:x:5:x0x00055x05:0005xx0x0::::.... .     .    .   ... ..                  .  .   .       .    </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">5550555x550x5x5xx50x550x5x5550555xx00xx00::00::::::x:::: .:...::    .                   ..  ....</text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">xxx5x5x555x55x555x000550505505x00x5x0xx0:x00::::::.::: .:..:.. ..                   ..  ..:.....</text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">505000005x500500550000005x550x50xx0::0xx00:::::::x:::::..... .       .           .   . ..:: ..  </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">55005xx055x555500055555x05xx5xx0x0:x5:x:0::x::.:x.x::: ...:..  ..            .. .. :::: ::::.:..</text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">5055x5x00000xxxxxx055500xx00x0xx:05x:::x:::.::::.:: .::..  .  . .            ..  ...::::  :::  .</text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">550x0555x5xx0x050x00505x0x5xx50x::::0::::::x::::::::::.::. . .  .. .. ... ...::::. x0 ::. : . . </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">505005505x5000555x5x5xx05xxx::x::00::x:.::0x:.:. ::.:::::.  ..  . .    . ..:::.:::::..:. . .    </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">550x5005x05xx00055000xx0:5x:x0xx0::xx:.:::..::::: : ::.:..... .. ..  ::.:: 0..:::::::.:. .      </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">0555x555x5555x5x050x50xx00xx0:0::::::::::0:::::::::.. :   .:. .  .:.::..:.0::x::.:0... .        </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">5xxx0500x50xx05xx505050000xx:::::::0::::::0x:::::: .. :. : : .:  .. .:::::x::::.:. :.. .        </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">5xx0055555x0x5xx505000000:0xx:x:::x::::x::::00:::.:::::::.: :::::.::::x:::::::.: ...            </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">x555x0005x50550x0005x5:x::000::x0::x:::::0::0xx::x: :: ::::: .:::::xx:x:::0:::.. .              </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">5xxx055x5000000x550005:00x::0:x:xx:::::x:::::::::::::x:..:0::x::x::x:::::: ::.                  </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">505xxx5xx550x5x0x55x:::x50:x::::0:0:x::x5:::0::::xx::::.::::::::x::x::.:.: :                    </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">5x5x0055x0500x0x:0::5:::00x0::x50x50xx5::x0::0xxx0:::0::::x:::0: x::::::   .                    </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">0005x05555500xx500x:05::0x:00:x0xx0005500000:0:::::::0: :::::x::x:::: . .                       </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">x050xx50x50xxxx000::0x0x05::00xx00x:0xx:0:0xx0:0::::0x::..x:.:::... . .                         </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">x0x0x55005xx0:x50x55:00:0500xx0x5:x:500:5:x00:::::x:0x:::.::  .:.....                           </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">55x505x0555055:x00xx0x50:xx550xx5xx:050::0xx00:::0 ::::.::...:...  . .    .                     </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">x0505x5x5xxxxx00x:5x05xxx5x00x5xx00x:::::x:::x:::. :: ::.:. :   . .                     .       </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">55x5x550050xx05:x5x0:00x5000050xx0x:xx0:0::::.0:::: ::.:.                            .          </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">x50xx055x50000005xx5x5x0505505xxxx50x::00::x:::: . ..:  .. .                                    </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">x550x55xx55500x00x5550x5x05xx050:0x::0x: ..:.:.: .  .... ..             .                       </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">055xxx0555x0x0xx5x00x:xx0:55x5xx0:0:::::..::....:  . .   .                            .   .     </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">xx50xx050x555xxxx55x0000x0:x5:5:x:0::.: :::....  .  .                              . .  .   .   </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">005050x0x5505055555x5xxx0:00x00:0:.:::.:: . .... .                            .      ..         </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">5500055xxxxx050x505xxx0:05x00::x:::.. . .  .... ..  ..                   .    ... .             </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">5550x50x5055xxxx00xx5xx:0xx:0::..::..  . . . ...  .          .           .  ....  .. .          </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">555xxx00x:50000:0xx0xxx0:::::::....  . .. .. .    .          .          ....:. .. ...           </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">55505xx50555xx5x:55:xx000.0:::.     .   ..  .   . .           .     .  ...:. .: ..              </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">55x0x5500x5x5055xxx5x0050xx5x5x00x5:0:::x:0:::0:::::::x::::::..:  . .                .  ..      </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">x5x55x5050055x5550x5555x055055505x50:0:x::::::x::::::0:::0::: . ..              .  .  .:. . . . </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">555555x0x500x00050xx5x50x50x0xxx::xxx:::::::::::::::0:x. ::.  .                  ..  :.....   . </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">5555x55555xx55xxxx500500x050x:0:x:x:0:x:0::::::0:::x.x: .::  .                .  ...::....... . </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">xxx00555x5x5x0505x505x50500:xx::0:0x0::::::::xxx:::::.. .:.               .. . ..:.:: :. .. .   </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">x5xx05x555x555xx50555x50x5xxx::00:::x0:::::xxx:x::::: .::  .  .   .   ...  ...::::::. :         </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">00555505x0xxx0005550x05xxx0:::::::::::x:::0::::::0::..::..           . . :. :0::.::::  .        </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">0555xxx55055x0x5x00x5000xx:0:::00:x::0::::xxx:0::::::::... ...  .  . :.:::::::::  .... .      . </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">xxx0x50xx55xxx55x:x00x0x::::::0:00::0x::0xxx0:::.x:.::...:. ... .::. .::::.:.::: :   .          </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">05x50050x0x0050x0xx::xx:0:::::::x::x00x::00:0xx:.x::.:.  ... ...:.. ::::x0::: ::.     .         </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">555xx5x5x555xxx:550::0::0x::x:::xxxxx:0x50x:x0:::::: ..........:::.:.:::::.:::::      .         </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">55x0x5xxxxx55:x0x0x::::::::0:0x:0x::x:550xx:::::::::. .. .:.:: ::.:0x:::0:.....                 </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">0005x500x055x50x:xx::x000::x00x:5:x0x55:0::x::::: :  .:::.:: ::.::0:.:::.. . .                  </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">x50550xx0xxxx50:0xxx5x0x:0::x0:550x500x:::::0:::::.:::::::: :::::::::  :.  .               .    </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">505xxxx550x000xxxx05xxx50x0xx:x550xx550x:0:::::::...::.:::::x:::::. .:...                       </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">5x505505x0x05x00xxx5::xx0:x0000x:x5:x50:0:::::x.:::.:x::::::::x:::.:.                           </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">55x5x50x055xxx0055:0x500055x00x5x:050x::0::xx..::::::::.:0::::::::...      .                    </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">05x5xxx5x005x5555x0x5x5xx5000500x5xxx0x:::xx:::::::: ::.:::::::.: ..                            </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">5x505x5x5005x0x505xxx55xx0005x055000:x::x:.:x:::::: ::..:.. ..:                     .      .    </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">055x500xxx050000x5x0x5555xx00x0x0:::xx:x0x:::.:  0:0::: :... .  .                               </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">505x55x55055x5xx055x5x5xx5050:0x::::x:::::::::::: :. :.:.:. .                                   </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">05x00x05x0xxx5000x050x5055x:5x:::x:xx0 ::::.:::::.:.::::.:                                      </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">55555550x550x555505xx50xx00xx00:x0::: ::. . :. :..:.....          .                             </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">55555555550x5505505055x05:0x::x:::0:::::.: :..: :..:.. . .                                      </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">5xx5005x0x050x00505555x0x0x:0::0x.:. ::::: ::::....     .                     . ..            . </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">xx050x0505x5550500x0::5x00x0:::::. ... :...... .: ...                        .  .   .           </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">05x0xxxxxxx55xx00:x50xx0::::x.   ... . ............                          .   ..             </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">505x550xx5x550xxxxxx0:x::::.::..: .:::::::.....  .           .          ..  .     .      .      </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">555550x50xx0:xx00xx00::::::::...:.::::.::::.... .                     . .     . .               </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">5xx5x0xx5x000x500:0x::0::...::. : ::.:::. .....   .             .    . .  . . .  .  .           </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">x500x0550555x05505550550055500x5x:00::x:0x00xx:00x:0xxx:x:::::::....       . . ...      .       </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">555x5555005x055055005x555x555000x:::0::x:0:::0:x0::05:::0x:0 ::.:.. ..    .  .  .   .    .      </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">000x55x555505x50555050x5x05000::::x::::0x0::505::5x5::::0:...:         .    .. . . ..           </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">0555x55550xx055x505x0x05xxxx0:::::0::::::::x:::x5xxx:x::::.    .           .  ....  ..          </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">05505550555x5505xx5500x00::::x:::x::xxx0:x5xxxx:x00::::::. .     . .  .  . .  ..  ...   .       </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">xx0005555055050550x0550:x0:0:0::0::xx:0:xxx0x0x500:x:::::.       .     .  .... .      .         </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">555x5550x555xx50x5xx0xxxx:x:x::x:5:000x0:xx05::0x:0::.::: .   . .. . .  ..... .                 </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5005555x055505x50:5x0xx:::00:::0xx:::xx0xx00x::0:x:::::  .. ..  ..... ....... . . .             </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">xx5xx5x55x500x5x55:xxx:0xxx0:500:x:0:0x0x:x0xx:::x:......  .  .. .    .: .. .                   </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">xx5x5x55505x0:0x5:x:5:00:x:0:::5050x0x0xxxxxxx0:::. ..  .   ..  ...... : .:    .          .     </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">xx5550005005x555:0x:x:x:x50xx5005x0:00xx0xx:::::  :..      ..  :...::.:. .                      </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">555xx550050x:005:x0:0xx0:50x0x5xx000x0x:5x::::   :. .  . .  :. ...::: ::.....                   </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">505500x05xx05xxxxx:xx0x5x005555x55:x0:5:::00.::.:. .    . . .: .::.::. :        .       .       </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">55505xxx5055x:0x5x5x5x00xx5055500:00x0x:0::.:...:... .  .:...:::.::.:.   ..                   . </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">x0xx5500000xxx0000xx5xxx0x5x00005x00:x0::::::. :. : ::::..: :. :. . .. .                        </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">5x5555550x5x5055x0x0x05x50xxxx550000:::::::. ..:.:....:::.:x:.::.:. ..     .                    </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">0555055x0x505x0x05xx0x055x050xxx5xx00::.:. :. : .::::::.::::0::.:..   .                         </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">x0xx550xx005505x0x00x05x5005xx0xx0x0x.: :... .::..  :.::x::x:.:. .  .   .                       </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">00xx0x05555x0055x0x505x500050:5:x::::: : ..:::..: ::::::::::::: .   .         .           .     </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">0xx0x50x5550xx55xxx50x50xxx:x::x0:x::..::::.::.::.::::::x...:.    .   .             .           </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">055x05xx050x5x5x50x0x5555xxxx:x:00.::.: : :: .:::::::: ::: ..                           .       </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">5x5xx0055550xx50x55x0505x::::::::: ...:.. :..::::::x::::.:   .                                  </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">550x5xx5x00x5x55x00xx50x00::::::.:::::::::.:x::::x:::.:: .. .                                  .</text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">x5x0x0xx5x50505550005x::0::::::..:.::::::::x:::::::: ::.                                    .   </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">5550x05550xx5xxx500xx:0:00.:: ::::.:::x::xx:x:::::: ..: .                                       </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">0555x5x0x55xxxx0:0x0xx:::x::.:::.x::::x:00::x:::x:::... .   .                           .       </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">5x5555x50x55xx005000:x::::..  ::::::::0:x::::0::::.  .                    .                .    </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">500xx55x5050000xx50x::0:. : ::::::x:x:::0::x:: . :.                                             </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">5500xxxx0x5:50x::0::::::: .::0x:::x:x:::0::::.: .                                               </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">x50000x500005x::x:::.x ::.:::0:::::::::::0..  ..                   .  .                         </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">055xx5xx5050550505x5x0x555x5x:xx::::xx::xx:05:xx50x550x0:0::::::...... :..   ..                 </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">5x5555x5x505x5055555500xxxx55x0::xx0x:xxx0:055xx0555x00x:0:x::: :   . . . .   .                 </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">5x5x55x05x50x5x055555x005x00x::::::00x0x0x0xx5x5xxx55500:::::::..   .  .  .                  .  </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">50505xx55x50xxx05x55x05x5050:x5:x:0xxxxxxxx0505x5x0xxx0::::.:. ...   .                          </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">x5555xxxxxx55xxxx5x5x5x5xxx:00:0x0xx050xxx000x500500:::::..      .   .    .                     </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">0x5005x55055x505x0x:50x:5:x0:x0:0555xxx505x505x00:0:0.::: ...    .. .      .       . .          </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">x50xx55555x05000xx05x0500x:0xx5050xx50000xxxx0xxx0:: .. .    .     .                    .       </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">5xx555x5500055x5x00xxx500:0:5x5xx550xx50xx5xx:00:x::.:. .    .          .                       </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">50x50xx00xx555505x5:x0xxx0x55x0050x5xxx:05x:5:::::: ....  .                      .              </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">5x55xx0x005x55xx00xx5x50x50055xxxx055x050xx:x::...    .       . .. ..    .                      </text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">5x550055x555x550:0x50055xx555x0005550xx05xx::..: .   .       .  .  ..    .  .          .        </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">00055x055x5x00x5x005050550xx0x0555xx5x:::::........  ....   . ..   .   ..  .           .     .  </text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">555x55550x0x500x0xx5x5x0x5xx5505xx00x:x:..: .      .   . . . .:...:. :. . .                     </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">55505555x5x5xx:05xx5x5xx00005x5xxx0:::::.:.   .. . ..  .:.:..:     . ...   ..   .   ....        </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">x0055xx055x5x5055x00x0xxx50x0x050x0:0::.  . .    . .... ::.:.:: ..:.  .    .. .   .  .          </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">5005xx005x0550x50x55005x5xx00xxx00x:::  . .. .. . . .::..: :.:.:: ...  ..     .                 </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">50555x0005x5x0x550550x550x00xx:0x: :. . .. .    .: .: ::...x::::...:.. .. ..                    </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">550005555x5xxx5xx5x500500:00x:::..:..: ...  .:...: :::::00:::::.:..... . ..   .                 </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">xx050x55x5xxx05550050xxxx0xx::::::. . .. : .:. ::::::::::::::..:: .. ....   .                   </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">0x05x0x055xxx05500x555::::0:0 ::...: ...:.::::::x0:0::0:::::.::.. .  .   . .                    </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">55x0555500x0x0x500xxx0x00:0:...:.. . . .:..:xx::00xx:0:0:xx:.:....                              </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">5x0555xx55x5x50x5x05x:x:x:.::.::.: :.::::::x::::xx:x:x:x:::::.   .                   .          </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">x5505x5555xxxx50055:x::::::::: .:::::::0:000x5:x:::0::x::. : .                     .            </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">505x0050xxxxxxx00x0::xxxx.::..:.:::0xx:::00::x:x::::::: :... ..              . .                </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">x5505005xx00xx0x0:x:::::.: :::::0::0xx5x:0::x0x00xx ::: ...                                     </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">0550x5000x505000x:::::x::: :x::x::0:xx:x:::xxx::::::.. .         .                             .</text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">05x0500xx5xx:05x::x0x: ::0:x:::0x:0x5xx:0050:x:::.::  .                                         </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">5005x5xx5x5:xx0:x:xx:::x:x:::0xx0xxxxxx:x50:::::..                                              </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">x0505055xx5:0::xx:::::::::::x0x0xx0x0xx:0x:::  .  ..       .                      .            .</text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">5x55xx50:x5:x0x:x::::::::50:005x:0005:x::0::  .  . .                                            </text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1"/>
+<text x="0" y="11" textLength="576" lengthAdjust="spacing">5055055x555x555550055055xx:055:5::0:0:x55x05x505x5x0:0000005::::.x:. :::.....              .    </text>
+<text x="0" y="22" textLength="576" lengthAdjust="spacing">xx5505x550555x50xxx5xxx0055xxx0500xxxx550xx550x50xx50x50x00x::::: .::..    . .                  </text>
+<text x="0" y="33" textLength="576" lengthAdjust="spacing">5xx0xx50xx5xxx5x50x0x5x0xxx:xx050xxxxxx5xx05050x5xx05x0:0::::: ..  .. . ..                      </text>
+<text x="0" y="44" textLength="576" lengthAdjust="spacing">55555x555550055555x05x:5x0x00xx550x550050x5xx5xxx5x0xx:0:::::..::   .                           </text>
+<text x="0" y="55" textLength="576" lengthAdjust="spacing">50xx0555x05x50x00x0000xxx50050x05500505500055x55x0::::0:::.:.. .  ...      .                    </text>
+<text x="0" y="66" textLength="576" lengthAdjust="spacing">00x0xx5xx5500x05x5000xx:00xx00x55555x5050x5505x50x:::..:..  .   .                               </text>
+<text x="0" y="77" textLength="576" lengthAdjust="spacing">50x5055x55x50x0x5505:5xx000505xx050xxx500x5xx0::::x. . . .     .                                </text>
+<text x="0" y="88" textLength="576" lengthAdjust="spacing">05505550x5x505555550xx0x0555x5x550550550500000:.:......  . .       . .                   ..     </text>
+<text x="0" y="99" textLength="576" lengthAdjust="spacing">xxx5x0x50x5x050xx55000555505x50055050x55x00::::....      ..  . .                   .    . . ..  </text>
+<text x="0" y="110" textLength="576" lengthAdjust="spacing">x55xxx5555x55505xx0x5005x5050555x50x50xx:x::.:: :..  ..       ..                   . . .   .....</text>
+<text x="0" y="121" textLength="576" lengthAdjust="spacing">500x50x55x500x50x5x500xx0x5505xx05x05x:x:: ::   .          .    .. .                ...  .. .   </text>
+<text x="0" y="132" textLength="576" lengthAdjust="spacing">x5x5x55x0x5x55xx5xx550500xx0550xxx00x::::... ..  .    .   ...    .. .           .. .. . ... .. .</text>
+<text x="0" y="143" textLength="576" lengthAdjust="spacing">5055050xx55x0x5x55500505x05x555x5:x0:: .. .  .   .  .  .   .  ..  ...  ..    ..    .  . ...     </text>
+<text x="0" y="154" textLength="576" lengthAdjust="spacing">505xx550x50x05x550x055xx50055x5:0::::.  . .     .  . ..... ...:. :. .  .  . . ... :   .  ..     </text>
+<text x="0" y="165" textLength="576" lengthAdjust="spacing">55x50x5xx55x00000555xx50505000::0:: ::..   .        . . .:.:. .. .. ..  ..: ..:.. ...  .        </text>
+<text x="0" y="176" textLength="576" lengthAdjust="spacing">x550x0x00xxx055xx005550x5x:5:0::::  .  ..      .... .:.::.: .. ::.:... .... ....                </text>
+<text x="0" y="187" textLength="576" lengthAdjust="spacing">5555550x505x0x5x505xx5x0x:x:0:: :.   .  .. .:..::: :::::0: .:.:..:: . ..:: . ..                 </text>
+<text x="0" y="198" textLength="576" lengthAdjust="spacing">005x550x0xx500050500550:::0:x::. .:. ..     ::::::::::::::::.:.::..:. .....  . .                </text>
+<text x="0" y="209" textLength="576" lengthAdjust="spacing">00x5x5xx5555x0xx55x::5::0::::::...  .::.:::.:.::::0:x::0x:::: :..::. ....:.  ..                 </text>
+<text x="0" y="220" textLength="576" lengthAdjust="spacing">:xxxx00x05x5x5005x00x000:::::.. .... ...:::::xx::00xx:0::::.: ::.:....   ..                     </text>
+<text x="0" y="231" textLength="576" lengthAdjust="spacing">055xx005xx50xx50500:::0x:.:: ::.:: :::x:x::00x:::55xx:x:::::: : .... ..                         </text>
+<text x="0" y="242" textLength="576" lengthAdjust="spacing">xx505xx00000505:00:x:::: ::..:::.:::.::x0x0x:x:5:::x::x::::..:..:... .                          </text>
+<text x="0" y="253" textLength="576" lengthAdjust="spacing">05x55xx50550x0050x0::x:.:.:: :..:.:::0:005:000x:x0::0:x0.:... .   .. .       .          .       </text>
+<text x="0" y="264" textLength="576" lengthAdjust="spacing">00005x05xxx0x:5:::::0::::.:::0::xxx:x00x0x550xx0:x:x::::.. .. .                                 </text>
+<text x="0" y="275" textLength="576" lengthAdjust="spacing">0055555x5x0x55055::x:x xx:0x::::x0xxx:xx5:x:0xx:::::.:  .                                       </text>
+<text x="0" y="286" textLength="576" lengthAdjust="spacing">xx55055xx50x50xx::0x:x0:0:::xxx0:x00:5:x:00xx::::.:::...                                        </text>
+<text x="0" y="297" textLength="576" lengthAdjust="spacing">5xx50005xx5050x00:::x:::x::0:00x:0005xx0x:x0:0::.... . .                                        </text>
+<text x="0" y="308" textLength="576" lengthAdjust="spacing">500x05x50xx50xxx:x::05:::x5555xx0505505:0x0:::: . ....                  .                       </text>
+<text x="0" y="319" textLength="576" lengthAdjust="spacing">555x5x5500x00x5::0xx0:00000x00050000xxx0x::: .... .                                       .     </text>
+<text x="0" y="330" textLength="576" lengthAdjust="spacing">505x5xx50x:55:0x0xx:x:x5x5x000:x0::0xx:::.:..  .                                                </text>
+</g>
+</g>
+<text x="486" y="187" font-family="SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="4" fill="#e6edf3">0x50595258<animate attributeName="opacity" values="1;0.55;1" dur="3s" repeatCount="indefinite"/></text>
+</svg>
