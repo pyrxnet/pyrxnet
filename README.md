@@ -1,3 +1,16 @@
+```text
+
+
+                   ,
+-_-_  '\\/\\ ,._-_ \\ /`
+|| \\  || ;'  ||    \\
+|| ||  ||/    ||    /\\
+||-'   |/     \\,  /  \;
+|/    (
+'      -_-
+```
+
+
 <div align="center">
   <a href="https://pyrxnet.github.io/pyrxnet/">
     <img src="assets/pyrx-ascii.svg" alt="PYRX ASCII" width="100%">
