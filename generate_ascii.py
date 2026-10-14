@@ -24,8 +24,8 @@ CHAR_W, LINE_H = 6, 11       # px per cell
 FONT_SIZE = 10
 LABEL = "0x50595258"         # "PYRX" in hex
 BG = "#0d1117"
-FG = "#8b949e"
-LABEL_FG = "#e6edf3"
+FG = "#4a86d6"
+LABEL_FG = "#cfe6ff"
 
 
 def default_seed() -> int:
