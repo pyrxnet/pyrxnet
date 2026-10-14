@@ -93,7 +93,7 @@ def render(seed: int) -> str:
 
     width, height = COLS * CHAR_W, ROWS * LINE_H + 8
     label_row = int(ROWS * 0.55)
-    label_cols = range(COLS - 16, COLS - 2)
+    label_cols = range(COLS - 23, COLS - 2)
     clear = {(r, c) for r in (label_row - 1, label_row, label_row + 1) for c in label_cols}
 
     total = FRAMES * FRAME_DUR
@@ -122,7 +122,7 @@ def render(seed: int) -> str:
     out.append("</g>")
 
     # Static label, with a slow pulse
-    lx = (COLS - 15) * CHAR_W
+    lx = (COLS - 21) * CHAR_W
     ly = (label_row + 1) * LINE_H
     out.append(
         f'<text x="{lx}" y="{ly}" font-family="SFMono-Regular,Consolas,monospace" '
