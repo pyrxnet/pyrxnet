@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PYRX</title>
+<style>
+  html,body{margin:0;height:100%;background:#000;overflow:hidden}
+  canvas{display:block;width:100vw;height:100vh}
+  #label{position:fixed;right:2.5vw;top:55vh;color:#e6edf3;font:14px/1 ui-monospace,Consolas,monospace;
+         letter-spacing:.45em;pointer-events:none;user-select:none}
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="label">0x50595258</div>
+<script>
+(() => {
+  const cv = document.getElementById('c'), ctx = cv.getContext('2d');
+  const CW = 8, CH = 12, FPS = 24;
+  const SHADES = ['', '#3a3f45', '#4a5058', '#6b727b', '#8b949e', '#b1bac4'];
+  const GLYPHS = [' ', '.', ':', '0x:', 'x05', '50x5'];
+  let cols, rows, dpr, mouse = { x: -1e4, y: -1e4 }, last = 0;
+
+  function resize() {
+    dpr = window.devicePixelRatio || 1;
+    cv.width = innerWidth * dpr; cv.height = innerHeight * dpr;
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    cols = Math.ceil(innerWidth / CW); rows = Math.ceil(innerHeight / CH);
+    ctx.font = '10px ui-monospace, Consolas, monospace';
+    ctx.textBaseline = 'top';
+  }
+  addEventListener('resize', resize); resize();
+  addEventListener('pointermove', e => { mouse.x = e.clientX; mouse.y = e.clientY; });
+  addEventListener('pointerleave', () => { mouse.x = mouse.y = -1e4; });
+
+  function level(v) {
+    return v < .10 ? 0 : v < .28 ? 1 : v < .44 ? 2 : v < .60 ? 3 : v < .80 ? 4 : 5;
+  }
+
+  function frame(t) {
+    requestAnimationFrame(frame);
+    if (t - last < 1000 / FPS) return;
+    last = t;
+    const s = t / 1000;
+    ctx.fillStyle = '#000'; ctx.fillRect(0, 0, innerWidth, innerHeight);
+    for (let y = 0; y < rows; y++) {
+      for (let x = 0; x < cols; x++) {
+        const u = x / cols, v = y / rows;
+        let d = 1.05 - 1.15 * u - 0.30 * v;
+        d += 0.38 * (Math.sin(x * .11 + y * .17 + s * .9) + Math.sin(x * .21 - y * .09 - s * 1.3)
+                     + Math.sin(x * .07 + y * .31 + s * .6)) / 3;
+        const dx = x * CW - mouse.x, dy = y * CH - mouse.y, dist = Math.hypot(dx, dy);
+        if (dist < 160) d += (1 - dist / 160) * 0.9;       // cursor lights up the field
+        d += (Math.random() - .5) * .24;
+        const L = level(d);
+        if (!L) continue;
+        const g = GLYPHS[L];
+        ctx.fillStyle = SHADES[L];
+        ctx.fillText(g[(Math.random() * g.length) | 0], x * CW, y * CH);
+      }
+    }
+  }
+  requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>

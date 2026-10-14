@@ -1,0 +1,32 @@
+name: Generate PYRX ASCII
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+  push:
+    paths:
+      - generate_ascii.py
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate ASCII SVG
+        run: python generate_ascii.py --out assets/pyrx-ascii.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/pyrx-ascii.svg
+          git diff --cached --quiet || (git commit -m "chore: regenerate pyrx ascii" && git push)
