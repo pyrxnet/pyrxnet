@@ -6,7 +6,6 @@
   <sub>click for the interactive version</sub>
 </div>
 
-against all odds
 
 ## tech stack:
 
