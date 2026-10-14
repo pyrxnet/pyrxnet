@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 338" width="576" height="338" role="img" aria-label="PYRX ASCII animation">
 <rect width="100%" height="100%" fill="#0d1117"/>
-<g font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8b949e" xml:space="preserve" style="white-space:pre">
+<g font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#4a86d6" xml:space="preserve" style="white-space:pre">
 <g opacity="1">
 <animate attributeName="opacity" calcMode="discrete" dur="3.36s" repeatCount="indefinite" values="1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
 <text x="0" y="11" textLength="576" lengthAdjust="spacing">5555x05550xx5xx05x5xx050500000:x555:xx55x00x0x0x555x005:x:::::0::::xx:::.....                   </text>
@@ -794,5 +794,5 @@
 <text x="0" y="330" textLength="576" lengthAdjust="spacing">5550xx050x000000:05xx550:5xx005500xx0x::x::. ..                      .                          </text>
 </g>
 </g>
-<text x="450" y="187" font-family="SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="4" fill="#e6edf3">0x50595258<animate attributeName="opacity" values="1;0.55;1" dur="3s" repeatCount="indefinite"/></text>
+<text x="450" y="187" font-family="SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="4" fill="#cfe6ff">0x50595258<animate attributeName="opacity" values="1;0.55;1" dur="3s" repeatCount="indefinite"/></text>
 </svg>
