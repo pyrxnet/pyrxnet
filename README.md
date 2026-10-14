@@ -42,7 +42,7 @@ against all odds
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyrxnet&layout=compact&theme=dark&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&border_color=30363D" alt="Most used languages">
 </p>
 
-## 💬 Contact:
+## Contact:
 
 <p>
   <img src="https://img.shields.io/badge/g19x-21262D?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
