@@ -51,13 +51,3 @@ against all odds
 <p>
   <img src="https://lanyard.cnrad.dev/api/1555522126788952066?theme=dark&bg=0d1117" alt="Discord status">
 </p>
-
-<a href="https://discord.gg/hz2yqDay3h">
-  <img src="https://img.shields.io/discord/1454574682916524322?style=for-the-badge&logo=discord&logoColor=white&label=JOIN%20MY%20SERVER&labelColor=21262D&color=30363D" alt="Discord server">
-</a>
-  <img src="https://lanyard.cnrad.dev/api/1555522126788952066?theme=dark&bg=000000" alt="Discord status">
-</p>
-
-<a href="https://discord.gg/hz2yqDay3h">
-  <img src="https://img.shields.io/discord/1454574682916524322?style=for-the-badge&logo=discord&logoColor=black&label=JOIN%20MY%20SERVER&color=FFFFFF&labelColor=FFFFFF" alt="Discord server">
-</a>
